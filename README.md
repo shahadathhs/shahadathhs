@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/PcJzjdV/github-profile.jpg" alt="Banner" style="width:100%;"/>
+
 <h1 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
