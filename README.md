@@ -13,23 +13,6 @@
 
 Enthusiastic Frontend Developer committed to continuous self-improvement and staying updated with the latest technologies. Experienced in responsive and user-friendly design, and excited to expand expertise in MERN Stack Development.
 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shahadathhs/count.svg?"  />
-</div>
-
-###
-
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&" alt="shahadathhs" /></p>
-
-
-
-
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahadathhs)
