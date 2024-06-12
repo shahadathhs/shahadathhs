@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h1>
 <h3 align="center">Frontend developer || MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **Advanced react.js **
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 💬 Ask me about **react**
+- 👯 I’m looking to collaborate on **Frontend/MERN Stack Projects**
 
 - 📫 How to reach me **shahadathhossensajib732@gmail.com**
 
