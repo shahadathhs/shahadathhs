@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend developer || MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **Advanced react.js **
 
