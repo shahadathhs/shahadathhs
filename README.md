@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h1>
-<h3 align="center">Frontend developer || MERN Stack Developer</h3>
 
-<p align="center">
-  <img
-    src="https://socialify.git.ci/shahadathhs/shahadathhs/image"
-    alt="waka-readme"
-    width="640"
-    height="320"
-  />
-</p>
+![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&descriptionEditable=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark)
 
 - 👯 I’m looking to collaborate on **Frontend/MERN Stack Projects**
 
