@@ -1,4 +1,4 @@
-![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&descriptionEditable=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark)
+![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&descriptionEditable=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Light)
 
 <h1 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h1>
 
@@ -56,6 +56,10 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 
 # ✍️ Random Dev Quote & Joke
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 50%" />
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" style="width: 50%" />  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
