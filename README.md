@@ -47,12 +47,12 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 <br/>
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent&hide_border=false)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent&hide_border=false" align="left" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent&hide_border=false" align="center" style="width: 80%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&hide_border=true&layout=compact" align="center" style="width: 50%" />  
 
 
 # ✍️ Random Dev Quote & Joke
