@@ -16,10 +16,7 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
-
-# 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahadathhs)
+- 🌐 Socials [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahadathhs)
 
 # My Skill Set  
 <table><tr><td valign="top">
@@ -53,8 +50,6 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&hide_border=false&layout=compact" style="width: 50%" />  
 
 
-# ✍️ Random Dev Quote & Joke
+# ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" style="width: 80%" />
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=light" style="width: 80%" />  
