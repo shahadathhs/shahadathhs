@@ -16,7 +16,7 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
-- 🌐 Socials [Linkdin](https://www.linkedin.com/in/shahadathhs)
+- 🌐 Socials [Linkedin](https://www.linkedin.com/in/shahadathhs)
 
 # My Skill Set  
 <table><tr><td valign="top">
@@ -45,11 +45,11 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent&hide_border=false" align="center" style="width: 80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent&hide_border=false" align="center" style="width: 70%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&hide_border=false&layout=compact" style="width: 50%" />  
 
 
 # ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" style="width: 80%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" style="width: 60%" />
