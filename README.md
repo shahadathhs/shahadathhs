@@ -23,13 +23,8 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote & Joke
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align="center">
- <h1 align="center">README Jokes</h1>
- <img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF">
- <p align="center"><i>Random programming jokes on your README.</i></p>
-</div>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
