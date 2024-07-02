@@ -16,7 +16,7 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
-- 🌐 Socials [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahadathhs)
+- 🌐 Socials [Linkdin](https://www.linkedin.com/in/shahadathhs)
 
 # My Skill Set  
 <table><tr><td valign="top">
