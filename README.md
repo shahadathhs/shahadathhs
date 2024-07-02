@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h1>
 <h3 align="center">Frontend developer || MERN Stack Developer</h3>
 
+<p align="center">
+  <img
+    src="https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
+    alt="waka-readme"
+    width="640"
+    height="320"
+  />
+</p>
+
 - 👯 I’m looking to collaborate on **Frontend/MERN Stack Projects**
 
 - 📫 How to reach me **shahadathhossensajib732@gmail.com**
