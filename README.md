@@ -14,7 +14,7 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
 
-- 📝 I regularly write articles on [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
+- 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
 
 ## 🌐 Socials
