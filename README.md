@@ -12,9 +12,10 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 - 🌱 I’m currently exploring **Advanced React, RTK, & Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shahadathhs.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
 
-- 📫 How to reach me **shahadathhossensajib732@gmail.com**
+- 📝 I regularly write articles on [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
+
 
 ## 🌐 Socials
 
