@@ -26,5 +26,5 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 ### ✍️ Random Dev Quote & Joke
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Jokes Card](https://readme-jokes.vercel.app/api?type=horizontal&theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
