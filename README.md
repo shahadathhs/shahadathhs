@@ -57,5 +57,5 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&" alt="shahadathhs" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathhs&show_icons=true&locale=en&layout=compact" alt="shahadathhs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathhs&show_icons=true&locale=en&layout=compact" alt="shahadathhs" />
 </div> 
