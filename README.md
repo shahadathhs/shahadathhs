@@ -12,8 +12,8 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
-
 ## 🌐 Connect with me
+
 <p align="center">
   <a href="https://dev.to/shahadathhs" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=devto&theme=dark" />
@@ -28,62 +28,71 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
-</p>
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; padding-top: 20px;" class="tech-stack">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,tailwind&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cypress&theme=light" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cypress&theme=light" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,yarn,vite&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=npm,yarn&theme=dark" />
+  </p>
 
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
+  </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
+  </p>
 
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  </p>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  </p>
+
+  </div>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -97,6 +106,6 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathhs&show_icons=true&locale=en&layout=compact" alt="shahadathhs" />
 </div>
 
-
 ## 🔥 Streak Stats
+
 <a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?r=u07" width="356" alt="Shahadath Hossen Sajib's Dev Card"/></a>
