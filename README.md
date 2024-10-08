@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&descriptionEditable=Automation%20Test%20Engineer%20%7C%20DevOps%20Enthusiast&font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto" alt="shahadathhs" width="640" height="320" />
+![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&descriptionEditable=Automation%20Test%20Engineer%20%7C%20DevOps%20Enthusiast%20&font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto)
 
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
