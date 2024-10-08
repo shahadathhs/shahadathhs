@@ -41,7 +41,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 </p>
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=light" /> 
 </p>
 
 <p align="center">
