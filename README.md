@@ -22,37 +22,92 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 
 ## 💻 Tech Stack
 
-<table align="center"><tr>
-  
-<td valign="top">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
+  </a>
+</p>
 
-## Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+  </a>
+</p>
 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-</div>
-</td>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+  </a>
+</p>
 
-<td valign="top">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  </a>
+</p>
 
-## Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  </a>
+</p>
 
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
-</div>
-</td>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
+  </a>
+</p>
 
-</tr></table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress&theme=light" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+  </a>
+</p>
 
-# 📊 GitHub Stats
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,yarn,vite&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  </a>
+</p>
+
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&locale=en" alt="shahadathhs" />
@@ -64,4 +119,6 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathhs&show_icons=true&locale=en&layout=compact" alt="shahadathhs" />
 </div>
 
+
+## 🔥 Streak Stats
 <a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?r=u07" width="356" alt="Shahadath Hossen Sajib's Dev Card"/></a>
