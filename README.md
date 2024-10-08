@@ -28,71 +28,33 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; padding-top: 20px;" class="tech-stack">
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" /> 
+</p>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,tailwind&theme=dark" />
-  </p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /> 
+</p>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-  </p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=vscode,pycharm,postman&theme=dark" /> 
+</p>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
-  </p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" /> 
+</p>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-  </p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=netlify,vercel,firebase&theme=dark" /> 
+</p>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-  </p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" /> 
+</p>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=cypress&theme=light" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=npm,yarn&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-  </p>
-
-  </div>
-</div>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=npm,yarn,vite&theme=dark" /> 
+</p>
 
 ## 📊 GitHub Stats
 
