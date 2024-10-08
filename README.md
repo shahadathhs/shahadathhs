@@ -15,18 +15,18 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://dev.to/shahadathhs" target="blank">
+  <a href="https://dev.to/shahadathhs" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=devto&theme=dark" />
   </a>
-  <a href="https://linkedin.com/in/shahadathhs" target="blank">
+  <a href="https://linkedin.com/in/shahadathhs" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://medium.com/@shahadathhs" target="blank">
+  <a href="https://medium.com/@shahadathhs" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahadathhs" height="47" width="50" />
   </a>
 </p>
 
-## 💻 Tech Stack
+## 💻 Tech & Tool Stack
 
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" /> 
