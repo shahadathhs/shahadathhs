@@ -61,3 +61,6 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathhs&show_icons=true&locale=en&layout=compact" alt="shahadathhs" />
 </div> 
+
+
+<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?r=u07" width="356" alt="Shahadath Hossen Sajib's Dev Card"/></a>
