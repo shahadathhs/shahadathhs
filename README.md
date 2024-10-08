@@ -1,29 +1,24 @@
-![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&descriptionEditable=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Light)
+<img src="https://socialify.git.ci/shahadathhs/shahadathhs/image?description=1&descriptionEditable=Automation%20Test%20Engineer%20%7C%20DevOps%20Enthusiast&font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto" alt="shahadathhs" width="640" height="320" />
 
-<h1 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h1>
+<h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
 # 💫 About Me
 
-Enthusiastic Frontend Developer committed to continuous self-improvement and staying updated with the latest technologies. Experienced in responsive and user-friendly design, and excited to expand expertise in MERN Stack Development.
+I'm an aspiring **Automation Test Engineer** with a strong background in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). My focus is on ensuring **quality** and **reliability** in applications through **automated testing** using tools like **Cypress, Jest, and Vitest**. My goal is to transition into **DevOps** and embrace a **DevTestOps** approach, integrating testing and operations for seamless software delivery. I'm passionate about building robust systems and look forward to connecting with professionals in **Test Automation, QA, and DevOps**.
 
-- 👯 I’m looking to collaborate on **Frontend/MERN Stack Projects**
-
-- 📫 How to reach me **shahadathhossensajib732@gmail.com**
-
-- 🌱 I’m currently exploring **TypeScript & Next.js**
-
+- 👯 I’m looking to collaborate on **Testing and DevOps**
+- 🌱 I’m currently learning **Cypress and advanced testing tools**
+- 📫 How to reach me: **shahadathhossensajib732@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
-
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
-- 🌐 Socials [Linkedin](https://www.linkedin.com/in/shahadathhs)
+# My Skill Set
 
-# My Skill Set  
 <table align="center"><tr>
   
 <td valign="top">
 
-## Frontend  
+## Frontend
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
@@ -36,9 +31,7 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 
 <td valign="top">
 
-
-## Backend  
-
+## Backend
 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
@@ -47,11 +40,12 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
 </div>
 </td>
 
-</tr></table>  
+</tr></table>
 
 <br/>
 
 # 📊 GitHub Stats
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&locale=en" alt="shahadathhs" />
   <br/>
@@ -60,7 +54,6 @@ Enthusiastic Frontend Developer committed to continuous self-improvement and sta
   <br/>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathhs&show_icons=true&locale=en&layout=compact" alt="shahadathhs" />
-</div> 
-
+</div>
 
 <a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?r=u07" width="356" alt="Shahadath Hossen Sajib's Dev Card"/></a>
