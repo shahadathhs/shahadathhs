@@ -15,95 +15,73 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://dev.to/shahadathhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahadathhs" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shahadathhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahadathhs" height="30" width="40" /></a>
-  <a href="https://medium.com/@shahadathhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahadathhs" height="30" width="40" /></a>
+  <a href="https://dev.to/shahadathhs" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=devto&theme=dark" />
+  </a>
+  <a href="https://linkedin.com/in/shahadathhs" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://medium.com/@shahadathhs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahadathhs" height="47" width="50" />
+  </a>
 </p>
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cypress&theme=light" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,yarn,vite&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=npm,yarn,vite&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
-  </a>
+   <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 </p>
 
 
