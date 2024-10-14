@@ -37,7 +37,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 </p>
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=vscode,pycharm,postman&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" /> 
 </p>
 
 <p align="center">
