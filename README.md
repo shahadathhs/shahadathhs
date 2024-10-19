@@ -32,7 +32,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 ## 💻 Tech & Tool Stack
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" /> 
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 </p>
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman,vercel&theme=dark" /> 
 </p>
 
 <p align="center">
@@ -48,15 +48,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 </p>
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=netlify,vercel,firebase&theme=dark" /> 
-</p>
-
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" /> 
-</p>
-
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=npm,yarn,vite&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" /> 
 </p>
 
 ## 📊 GitHub Stats
