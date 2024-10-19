@@ -32,24 +32,17 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 ## 💻 Tech & Tool Stack
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb&theme=dark" /> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /> 
-</p>
-
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman,vercel&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman,vercel,git,github,gitlab&theme=dark" /> 
 </p>
 
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=light" /> 
 </p>
 
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" /> 
-</p>
 
 ## 📊 GitHub Stats
 
