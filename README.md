@@ -21,6 +21,9 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <a href="https://linkedin.com/in/shahadathhs" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
+  <a href="https://gitlab.com/shahadathhs" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gitlab&theme=dark" />
+  </a>
   <a href="https://medium.com/@shahadathhs" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahadathhs" height="47" width="50" />
   </a>
