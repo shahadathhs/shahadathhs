@@ -32,15 +32,11 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 ## 💻 Tech & Tool Stack
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb&theme=dark" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,vercel&theme=dark" /> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman,vercel,git,github,gitlab&theme=dark" /> 
-</p>
-
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=light" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,jest,vitest,cypress&theme=dark" /> 
 </p>
 
 
