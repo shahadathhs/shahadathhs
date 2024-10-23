@@ -49,7 +49,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&" alt="shahadathhs" />
   <br/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathhs&show_icons=true&locale=en&layout=compact" alt="shahadathhs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&size_weight=0.5&count_weight=0.5&langs_count=8" alt="shahadathhs" />
 </div>
 
 ## 🔥 Streak Stats
