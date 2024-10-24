@@ -54,7 +54,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent" alt="shahadathhs" />
 </p>
 
-<a align="center" href="https://roadmap.sh/u/shahadathhs">
+<p align="center">
   <img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=light" alt="roadmap.sh"/>
 </a>
 
