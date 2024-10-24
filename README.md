@@ -43,7 +43,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadathhs&hide=contribs,prs" alt="shahadathhs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&locale=en" alt="shahadathhs" />
   <br/>
   <br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&" alt="shahadathhs" />
