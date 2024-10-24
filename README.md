@@ -57,5 +57,5 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 ## 🔥 Streak Stats
 
 <div align="center"> 
-<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
+<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu&theme=dark" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
 </div>
