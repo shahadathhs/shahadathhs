@@ -51,13 +51,15 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&" alt="shahadathhs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent" alt="shahadathhs" />
 </p>
+
+<a align="center" href="https://roadmap.sh/u/shahadathhs">
+  <img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=light" alt="roadmap.sh"/>
+</a>
 
 ## 🔥 Streak Stats
 
 <div align="center"> 
 <a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
-
-  <a href="https://roadmap.sh/u/shahadathhs"><img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=light" alt="roadmap.sh"/></a>
 </div>
