@@ -47,7 +47,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent" alt="shahadathhs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent" alt="shahadathhs" />
 </p>
 
 <p align="center">
@@ -59,5 +59,5 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 <div align="center"> 
 <a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
 
-  <a href="https://roadmap.sh/u/shahadathhs"><img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh/u/shahadathhs"><img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=light" alt="roadmap.sh"/></a>
 </div>
