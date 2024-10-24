@@ -42,15 +42,12 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 
 ## 📊 GitHub Stats
 
-<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&locale=en&rank_icon=percentile" alt="shahadathhs" />
-  <br/>
-  <br/>
+ 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&" alt="shahadathhs" />
-  <br/>
-  <br/>
+ 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&size_weight=0.5&count_weight=0.5&langs_count=8" alt="shahadathhs" />
-</div>
+
 
 ## 🔥 Streak Stats
 
