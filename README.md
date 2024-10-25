@@ -47,8 +47,8 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 
 
 ## 📊 GitHub Stats
-![overview](https://raw.githubusercontent.com/shahadathhs/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![languages](https://raw.githubusercontent.com/shahadathhs/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shahadathhs/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shahadathhs/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
 <p align="center">
