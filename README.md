@@ -47,7 +47,10 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 
 
 ## 📊 GitHub Stats
+![overview](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![languages](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&locale=en&rank_icon=percentile&theme=transparent" alt="shahadathhs" />
 </p>
@@ -55,8 +58,9 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent" alt="shahadathhs" />
 </p>
+-->
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent" alt="shahadathhs" />
 </p>
 
