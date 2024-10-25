@@ -20,7 +20,7 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 
 ## 🌐 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://dev.to/shahadathhs" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=devto&theme=dark" />
   </a>
@@ -37,12 +37,12 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 
 ## 💻 Tech & Tool Stack
 
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,vercel&theme=dark" /> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,vercel&theme=dark" /> 
 </p>
 
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,jest,vitest,cypress&theme=dark" /> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,jest,vitest,cypress&theme=dark" /> 
 </p>
 
 
@@ -68,6 +68,6 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 
 ## 🔥 Streak Stats
 
-<div align="center"> 
+<div align="left"> 
 <a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
 </div>
