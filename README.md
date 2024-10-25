@@ -18,6 +18,8 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 
 ![My Roadmap Progress](https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=dark)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=dark)](https://roadmap.sh)
+
 ## 🌐 Connect with me
 
 <p align="left">
