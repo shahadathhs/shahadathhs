@@ -12,6 +12,13 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
+## 🚀 My Developer Roadmap
+
+Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
+
+![My Roadmap Progress](https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=dark)
+
+
 ## 🌐 Connect with me
 
 <p align="center">
@@ -53,10 +60,6 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent" alt="shahadathhs" />
 </p>
-
-<p align="center">
-  <a href="https://roadmap.sh/u/shahadathhs"><img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=dark" alt="roadmap.sh"/></a>
-</a>
 
 ## 🔥 Streak Stats
 
