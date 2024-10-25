@@ -69,5 +69,5 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 ## 🔥 Streak Stats
 
 <div align="left"> 
-<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
+<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=k8p" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
 </div>
