@@ -1,4 +1,4 @@
-![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto)
+![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
@@ -69,5 +69,5 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 ## 🔥 Streak Stats
 
 <div align="left"> 
-<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu&theme=dark" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
+<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
 </div>
