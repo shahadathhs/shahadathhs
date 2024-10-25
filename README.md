@@ -63,11 +63,11 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 -->
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=transparent" alt="shahadathhs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=dark" alt="shahadathhs" />
 </p>
 
 ## 🔥 Streak Stats
 
 <div align="left"> 
-<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
+<a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=xnu&theme=dark" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
 </div>
