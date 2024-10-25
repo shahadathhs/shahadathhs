@@ -4,10 +4,10 @@
 
 ## 💫 About Me
 
-I'm an aspiring **Automation Test Engineer** with a strong background in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). My focus is on ensuring **quality** and **reliability** in applications through **automated testing** using tools like **Cypress, Jest, and Vitest**. I'm passionate about building robust systems and look forward to connecting with professionals in **Test Automation, QA, and Development**.
+I'm an aspiring **Automation Test Engineer** with a strong background in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). My focus is on ensuring **quality** and **reliability** in applications through **automated testing** using tools like **Cypress, Jest, and Vitest**.
 
-- 👯 I’m looking to collaborate on **Testing**
-- 🌱 I’m currently learning **Cypress and advanced testing tools**
+- 👯 I’m looking to collaborate on **Testing**.
+- 🌱 I’m currently learning **Cypress and advanced testing tools**.
 - 📫 How to reach me: **shahadathhossensajib732@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
