@@ -55,7 +55,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 </p>
 
 <p align="center">
-  <img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=light" alt="roadmap.sh"/>
+  <a href="https://roadmap.sh/u/shahadathhs"><img src="https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=dark" alt="roadmap.sh"/></a>
 </a>
 
 ## 🔥 Streak Stats
