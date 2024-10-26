@@ -12,12 +12,6 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
 
-## 🚀 My Developer Roadmap
-
-Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
-
-[![roadmap.sh](https://roadmap.sh/card/wide/6508f59dd5295d7a8120f897?variant=dark)](https://roadmap.sh)
-
 ## 🌐 Connect with me
 
 <p align="left">
@@ -68,6 +62,6 @@ Check out my progress on [Roadmap.sh](https://roadmap.sh/u/shahadathhs):
 
 ## 🔥 Streak Stats
 
-<div align="left"> 
+<div align="center"> 
  <a href="https://app.daily.dev/shahadathhs"><img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card"/></a>
 </div>
