@@ -57,7 +57,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 -->
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathhs&theme=dark" alt="shahadathhs" />
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="shahadathhs" />
 </p>
 
 ## 🔥 Streak Stats
