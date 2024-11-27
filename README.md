@@ -1,4 +1,8 @@
-{** <img align="center" src="https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" /> **}
+<!-- <img align="center" src="https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" /> -->
+
+<div align="center"> 
+  <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card"/>
+</div>
 
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
@@ -36,7 +40,6 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,jest,vitest,cypress&theme=dark" /> 
 </p>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -63,9 +66,11 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak" />
   </p>
 </div>
-
+<!--
 ## 🔥 Streak Stats
-
+-->
+<!--
 <div align="center"> 
   <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card"/>
 </div>
+-->
