@@ -46,19 +46,18 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahadathhs&show_icons=true&locale=en&rank_icon=percentile&theme=transparent" alt="shahadathhs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathhs&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent" alt="shahadathhs" />
-</p>
--->
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak" />
 </p>
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahadathhs&theme=dark" height="163em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahadathhs&theme=dark" height="163em" /> 
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" height="160em" /> 
+  <br>
+  <img src="https://streak-stats.demolab.com?user=shahadathhs&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
+</div>
 
 ## 🔥 Streak Stats
 
