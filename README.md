@@ -41,22 +41,27 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
 
 
 ## 📊 GitHub Stats
-<a href="https://github.com/shahadathhs/github-stats">
-  <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak" />
-</p>
 
 <div align="center">
+  <a align="center" href="https://github.com/shahadathhs/github-stats">
+    <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+  
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahadathhs&theme=dark" height="163em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahadathhs&theme=dark" height="163em" /> 
+  
   <br>
+  <br>
+  
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" height="160em" /> 
+  
   <br>
-  <img src="https://streak-stats.demolab.com?user=shahadathhs&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
+  <br>
+  
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak" />
+  </p>
 </div>
 
 ## 🔥 Streak Stats
