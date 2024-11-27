@@ -57,7 +57,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <br>
   <br>
   
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" height="200em" /> 
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" /> 
   
   <br>
   <br>
