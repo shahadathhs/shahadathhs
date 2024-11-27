@@ -1,5 +1,4 @@
-![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
-<img src="https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" />
+// <img align="center" src="https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" />
 
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
