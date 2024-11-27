@@ -59,7 +59,7 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
   <br>
   <br>
   
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak" />
   </p>
 </div>
