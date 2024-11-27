@@ -1,13 +1,14 @@
 ![shahadathhs](https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+<img src="https://socialify.git.ci/shahadathhs/shahadathhs/image?font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" />
 
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
 ## 💫 About Me
 
-I'm an aspiring **Automation Test Engineer** with a strong background in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). My focus is on ensuring **quality** and **reliability** in applications through **automated testing** using tools like **Cypress, Jest, and Vitest**.
+I'm an aspiring **Automation Test Engineer** with a strong background in the **MERN stack**. I focus on ensuring **quality** and **reliability** in applications through **automated testing** using tools like **Cypress, Jest, and K6**.
 
 - 👯 I’m looking to collaborate on **Testing**.
-- 🌱 I’m currently learning **Cypress and advanced testing tools**.
+- 🌱 I’m currently learning **Performance Testing**.
 - 📫 How to reach me: **shahadathhossensajib732@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shahadathhs.vercel.app)
 - 📄 Know about my experiences at [My Resume](https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing)
