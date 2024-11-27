@@ -47,6 +47,9 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
     <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
     <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
+
+  <br>
+  <br>
   
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahadathhs&theme=dark" height="163em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahadathhs&theme=dark" height="163em" /> 
