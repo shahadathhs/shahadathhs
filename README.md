@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/shahadathhs" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
-  <a href="mailto:shahadathhs@gmail.com" target="_blank">
+  <a href="mailto:shahadathhossensajib732@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
   <a href="https://twitter.com/shahadathhs" target="_blank">
