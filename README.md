@@ -39,10 +39,6 @@
   <h2>📊 GitHub Stats</h2>
   <div align="center">
     <a href="https://github.com/shahadathhs">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" alt="GitHub Profile Details" />
-    </a>
-    <br /><br />
-    <a href="https://github.com/shahadathhs">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak Stats" />
     </a>
     <br /><br />
@@ -59,6 +55,10 @@
     <a href="https://github.com/shahadathhs">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahadathhs&theme=dark" alt="Stats Card" />
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahadathhs&theme=dark&utcOffset=8" alt="Productive Time" />
+    </a>
+    <br /><br />
+    <a href="https://github.com/shahadathhs">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" alt="GitHub Profile Details" />
     </a>
   </div>
 
