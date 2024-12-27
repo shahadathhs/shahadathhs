@@ -5,15 +5,15 @@
 
   <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
-  <h2>💫 About Me</h2>
-  <p>I'm an aspiring <strong>Automation Test Engineer</strong> with a strong background in the <strong>MERN stack</strong>. I focus on ensuring <strong>quality</strong> and <strong>reliability</strong> in applications through <strong>automated testing</strong> using tools like <strong>Cypress, Jest, and K6</strong>.</p>
-  <ul>
-    <li>👯 I’m looking to collaborate on <strong>Web Development</strong>.</li>
-    <li>🌱 I’m currently learning <strong>Node.js</strong>.</li>
-    <li>📫 How to reach me: <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://shahadathhs.vercel.app">My Portfolio</a></li>
-    <li>📄 Know about my experiences at <a href="https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing">My Resume</a></li>
-  </ul>
+<h2>💫 About Me</h2>  
+<p>I'm a passionate <strong>Frontend Developer</strong> with expertise in the <strong>MERN stack</strong> and a focus on building scalable, responsive web applications. I’m skilled in <strong>JavaScript, TypeScript, React, Node.js</strong>, and various other modern web technologies.</p>  
+<ul>  
+  <li>👯 I’m open to collaborating on <strong>Web Development</strong> projects.</li>  
+  <li>🌱 Currently learning <strong>Node.js</strong> to expand my backend skills.</li>  
+  <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
+  <li>👨‍💻 Check out my projects on my <a href="https://shahadathhs.vercel.app">Portfolio</a></li>  
+  <li>📄 My <a href="https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing">Resume</a></li>  
+</ul>  
 
 <h2>🌐 Connect with Me</h2>
 
