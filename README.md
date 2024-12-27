@@ -5,15 +5,18 @@
 
   <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
-<h2>💫 About Me</h2>  
 <p>I'm a passionate <strong>Frontend Developer</strong> with expertise in the <strong>MERN stack</strong> and a focus on building scalable, responsive web applications. I’m skilled in <strong>JavaScript, TypeScript, React, Node.js</strong>, and various other modern web technologies.</p>  
+
+<p>I also have hands-on experience in <strong>full-stack unit testing</strong>, using <strong>Jest</strong> to ensure robust and reliable code across both frontend and backend applications.</p>  
+
 <ul>  
   <li>👯 I’m open to collaborating on <strong>Web Development</strong> projects.</li>  
   <li>🌱 Currently learning <strong>Node.js</strong> to expand my backend skills.</li>  
   <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
   <li>👨‍💻 Check out my projects on my <a href="https://shahadathhs.vercel.app">Portfolio</a></li>  
   <li>📄 My <a href="https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing">Resume</a></li>  
-</ul>  
+</ul>
+
 
 <h2>🌐 Connect with Me</h2>
 
