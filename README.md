@@ -15,13 +15,14 @@
     <li>📄 Know about my experiences at <a href="https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing">My Resume</a></li>
   </ul>
 
-  <h2>🌐 Connect with Me</h2>
+<h2>🌐 Connect with Me</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/shahadathhs" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   <a href="mailto:shahadathhs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
   <a href="https://twitter.com/shahadathhs" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
