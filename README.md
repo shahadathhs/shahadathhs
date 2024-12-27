@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shahadath Hossen Sajib - GitHub Profile</title>
-</head>
-<body>
+
   <div align="center"> 
     <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card" />
   </div>
@@ -75,5 +68,3 @@
       <img src="https://github-profile-trophy.vercel.app/?username=shahadathhs" alt="GitHub Trophies" />
     </a>
   </div>
-</body>
-</html>
