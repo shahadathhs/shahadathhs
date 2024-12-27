@@ -1,10 +1,10 @@
+<div align="center"> 
+  <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card" />
+</div>
 
-  <div align="center"> 
-    <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card" />
-  </div>
+<h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
-  <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
-
+<h2>💫 About Me</h2> 
 <p>I'm a passionate <strong>Frontend Developer</strong> with expertise in the <strong>MERN stack</strong> and a focus on building scalable, responsive web applications. I’m skilled in <strong>JavaScript, TypeScript, React, Node.js</strong>, and various other modern web technologies.</p>  
 
 <p>I also have hands-on experience in <strong>full-stack unit testing</strong>, using <strong>Jest</strong> to ensure robust and reliable code across both frontend and backend applications.</p>  
