@@ -36,7 +36,7 @@
 <div align="center">
   <h3>🎨 Frontend Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Frontend Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,tailwind,react,remix,nextjs&theme=dark" alt="Frontend Tech Stack" />
   </p>
 </div>
 
@@ -52,7 +52,7 @@
 <div align="center">
   <h3>🔄 Version Control</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" alt="Version Control Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control Tools" />
   </p>
 </div>
 
