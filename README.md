@@ -66,11 +66,12 @@ I'm an aspiring **Automation Test Engineer** with a strong background in the **M
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak" />
   </p>
 </div>
-<!--
-## 🔥 Streak Stats
--->
-<!--
-<div align="center"> 
-  <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card"/>
+
+<hr>
+
+<div align="center">
+  <h3 align="center">🏆 Github Trophy 🏆</h3>
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadathhs" alt="shahadathhs" /></a> 
+  </p>
 </div>
--->
