@@ -36,35 +36,41 @@
     <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,jest,vitest,cypress&theme=dark" alt="Tools" /> 
   </p>
 
-  <h2>📊 GitHub Stats</h2>
-  <div align="center">
-    <a href="https://github.com/shahadathhs">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak Stats" />
-    </a>
-    <br /><br />
-    <a align="center" href="https://github.com/shahadathhs/github-stats">
-      <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-      <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-    </a>
-    <br /><br />
-    <a href="https://github.com/shahadathhs">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahadathhs&theme=dark" alt="Most Commit Language" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahadathhs&theme=dark" alt="Repositories Per Language" /> 
-    </a>
-    <br /><br />
-    <a href="https://github.com/shahadathhs">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahadathhs&theme=dark" alt="Stats Card" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahadathhs&theme=dark&utcOffset=8" alt="Productive Time" />
-    </a>
-    <br /><br />
-    <a href="https://github.com/shahadathhs">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" alt="GitHub Profile Details" />
-    </a>
-  </div>
+<h2>📊 GitHub Stats</h2>
 
-  <h2>🏆 GitHub Trophy</h2>
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=shahadathhs" alt="GitHub Trophies" />
-    </a>
-  </div>
+<!-- Section 1: Streak Stats -->
+<div align="center">
+  <h3>🔥 Streak Stats</h3>
+  <a href="https://github.com/shahadathhs">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak Stats" />
+  </a>
+</div>
+
+<!-- Section 2: Language and Overview Stats -->
+<div align="center">
+  <h3>📜 Language and Overview</h3>
+  <a align="center" href="https://github.com/shahadathhs/github-stats">
+    <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" />
+    <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages Stats" />
+  </a>
+</div>
+
+<!-- Section 3: Profile Summary and Details -->
+<div align="center">
+  <h3>📊 Profile Summary and Details</h3>
+  <a href="https://github.com/shahadathhs">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahadathhs&theme=dark" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahadathhs&theme=dark" alt="Repositories Per Language" /> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahadathhs&theme=dark" alt="Stats Card" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahadathhs&theme=dark&utcOffset=8" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" alt="GitHub Profile Details" />
+  </a>
+</div>
+
+<!-- Section 4: Github Trophy -->
+<div align="center">
+  <h3>🏆 GitHub Trophy</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shahadathhs" alt="GitHub Trophies" />
+  </a>
+</div>
