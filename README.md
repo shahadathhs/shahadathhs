@@ -32,7 +32,15 @@
 
 <h2>💻 Tech & Tool Stack</h2>
 
-<!-- Section 1: Frontend Technologies -->
+<!-- Section 1: Languages -->
+<div align="center">
+  <h3>🌐 Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Programming Languages" />
+  </p>
+</div>
+
+<!-- Section 2: Frontend Technologies -->
 <div align="center">
   <h3>🎨 Frontend Technologies</h3>
   <p>
@@ -40,7 +48,7 @@
   </p>
 </div>
 
-<!-- Section 2: Backend Technologies -->
+<!-- Section 3: Backend Technologies -->
 <div align="center">
   <h3>🔧 Backend Technologies</h3>
   <p>
@@ -48,7 +56,7 @@
   </p>
 </div>
 
-<!-- Section 3: Version Control -->
+<!-- Section 4: Version Control -->
 <div align="center">
   <h3>🔄 Version Control</h3>
   <p>
@@ -56,7 +64,7 @@
   </p>
 </div>
 
-<!-- Section 4: Tools -->
+<!-- Section 5: Tools -->
 <div align="center">
   <h3>🛠️ Tools</h3>
   <p>
@@ -64,13 +72,14 @@
   </p>
 </div>
 
-<!-- Section 5: Testing Technologies -->
+<!-- Section 6: Testing Technologies -->
 <div align="center">
   <h3>✅ Testing Technologies</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" alt="Testing Tools" />
   </p>
 </div>
+
 
 
 <h2>📊 GitHub Stats</h2>
