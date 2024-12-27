@@ -28,13 +28,48 @@
     </a>
   </p>
 
-  <h2>💻 Tech & Tool Stack</h2>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb&theme=dark" alt="Tech Stack" /> 
+<h2>💻 Tech & Tool Stack</h2>
+
+<!-- Section 1: Frontend Technologies -->
+<div align="center">
+  <h3>🎨 Frontend Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Frontend Tech Stack" />
   </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,jest,vitest,cypress&theme=dark" alt="Tools" /> 
+</div>
+
+<!-- Section 2: Backend Technologies -->
+<div align="center">
+  <h3>🔧 Backend Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Tech Stack" />
   </p>
+</div>
+
+<!-- Section 3: Version Control -->
+<div align="center">
+  <h3>🔄 Version Control</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" alt="Version Control Tools" />
+  </p>
+</div>
+
+<!-- Section 4: Tools -->
+<div align="center">
+  <h3>🛠️ Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,vercel,notion&theme=dark" alt="Tools" />
+  </p>
+</div>
+
+<!-- Section 5: Testing Technologies -->
+<div align="center">
+  <h3>✅ Testing Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" alt="Testing Tools" />
+  </p>
+</div>
+
 
 <h2>📊 GitHub Stats</h2>
 
