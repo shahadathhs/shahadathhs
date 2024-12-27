@@ -16,17 +16,18 @@
   </ul>
 
   <h2>🌐 Connect with Me</h2>
-  <p align="center">
-    <a href="https://dev.to/shahadathhs" target="_blank">
-      <img src="https://skillicons.dev/icons?i=devto&theme=dark" alt="Dev.to" />
-    </a>
-    <a href="https://linkedin.com/in/shahadathhs" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-    </a>
-    <a href="https://medium.com/@shahadathhs" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="47" width="50" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://linkedin.com/in/shahadathhs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shahadathhs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/shahadathhs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
+  </a>
+</p>
+
 
 <h2>💻 Tech & Tool Stack</h2>
 
