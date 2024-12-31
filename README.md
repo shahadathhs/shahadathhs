@@ -1,6 +1,9 @@
 <div align="center"> 
   <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card" />
 </div>
+<a href="https://wakatime.com/@633a1425-6f0e-49cf-8b4c-b2ed1ff8e455">
+  <img src="https://wakatime.com/badge/user/633a1425-6f0e-49cf-8b4c-b2ed1ff8e455.svg" alt="Total time coded since Dec 29 2024" />
+</a>
 
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
