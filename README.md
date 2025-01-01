@@ -53,29 +53,13 @@
 
 <!-- Section 2: Frontend Technologies -->
 <div align="center">
-  <h3>🎨 Frontend Technologies</h3>
+  <h3>🎨 Frontend & 🔧 Backend Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,tailwind,react,remix,nextjs&theme=dark" alt="Frontend Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,remix,nextjs,nodejs,express,mongodb&theme=dark" alt="Frontend Tech Stack" />
   </p>
 </div>
 
-<!-- Section 3: Backend Technologies -->
-<div align="center">
-  <h3>🔧 Backend Technologies</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Tech Stack" />
-  </p>
-</div>
-
-<!-- Section 4: Version Control -->
-<div align="center">
-<!--   <h3>🔄 Version Control</h3> -->
-  <p>
-<!--     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control Tools" /> -->
-  </p>
-</div>
-
-<!-- Section 5: Tools -->
+<!-- Section 3: Tools -->
 <div align="center">
   <h3>🛠️ Tools & 🔄 Version Control</h3>
   <p>
@@ -83,7 +67,7 @@
   </p>
 </div>
 
-<!-- Section 6: Testing Technologies -->
+<!-- Section 4: Testing Technologies -->
 <div align="center">
   <h3>✅ Testing Technologies</h3>
   <p>
@@ -114,13 +98,8 @@
 
 <!-- Section 3: Profile Summary and Details -->
 <div align="center">
-<!--   <h3>📊 Profile Summary and Details</h3> -->
   <h3>📊 Profile Summary</h3>
   <a href="https://github.com/shahadathhs">
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahadathhs&theme=dark" alt="Most Commit Language" /> -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahadathhs&theme=dark" alt="Repositories Per Language" />  -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahadathhs&theme=dark" alt="Stats Card" /> -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahadathhs&theme=dark&utcOffset=8" alt="Productive Time" /> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" alt="GitHub Profile Details" />
   </a>
 </div>
