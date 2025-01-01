@@ -69,17 +69,17 @@
 
 <!-- Section 4: Version Control -->
 <div align="center">
-  <h3>🔄 Version Control</h3>
+<!--   <h3>🔄 Version Control</h3> -->
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control Tools" />
+<!--     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control Tools" /> -->
   </p>
 </div>
 
 <!-- Section 5: Tools -->
 <div align="center">
-  <h3>🛠️ Tools</h3>
+  <h3>🛠️ Tools & 🔄 Version Control</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,vercel,notion&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,vercel,git,github&theme=dark" alt="Tools" />
   </p>
 </div>
 
