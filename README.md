@@ -108,6 +108,6 @@
 <div align="center">
   <h3>🏆 GitHub Trophy</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahadathhs" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shahadathhs&theme=dracula&title=Followers,Commit,Repositories,Experience" alt="GitHub Trophies" />
   </a>
 </div>
