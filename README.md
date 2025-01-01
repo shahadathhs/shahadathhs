@@ -8,7 +8,6 @@
   <a href="https://wakatime.com/@633a1425-6f0e-49cf-8b4c-b2ed1ff8e455" target="_blank">
     <img src="https://wakatime.com/badge/user/633a1425-6f0e-49cf-8b4c-b2ed1ff8e455.svg" alt="Total time coded since Dec 29 2024" />
   </a>
-  <br />
   <img src="https://komarev.com/ghpvc/?username=shahadathhs&style=flat" alt="Profile View Counter" />
   <br />
   <p><em>Stats as of <strong>January 1, 2025</strong></em></p>
