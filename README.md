@@ -66,17 +66,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Tech Stack" />
   </p>
 </div>
-
-
-<!-- Section 3: Tools -->
-<!-- 
-<div align="center">
-  <h3>🛠️ Tools & 🔄 Version Control</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,vercel,git,github&theme=dark" alt="Tools" />
-  </p>
-</div>
- -->
  
 <!-- Section 4: Testing Technologies -->
 <div align="center">
@@ -87,20 +76,9 @@
 </div>
 
 
-
 <h2>📊 GitHub Stats</h2>
 
-<!-- Section 1: Streak Stats -->
-<!-- shahadathhs
-<div align="center">
-  <h3>🔥 Streak Stats</h3>
-  <a href="https://github.com/shahadathhs">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak Stats" />
-  </a>
-</div>
--->
-
-<!-- Section 2: Language and Overview Stats -->
+<!-- Section 1: Language and Overview Stats -->
 <div align="center">
   <h3>📜 Language and Overview</h3>
   <a align="center" href="https://github.com/shahadathhs/github-stats">
@@ -109,27 +87,7 @@
   </a>
 </div>
 
-<!-- Section 3: Profile Summary and Details -->
-<!-- shahadathhs
-<div align="center">
-  <h3>📊 Profile Summary</h3>
-  <a href="https://github.com/shahadathhs">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" alt="GitHub Profile Details" />
-  </a>
-</div>
--->
-
-<!-- Section 4: Github Trophy -->
-<!-- shahadathhs
-<div align="center">
-  <h3>🏆 GitHub Trophy</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=shahadathhs&theme=dracula&title=Followers,Commit,Repositories,Experience&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
--->
-
-<!-- Section 5: GitHub Activity Graph -->
+<!-- Section 2: GitHub Activity Graph -->
 <div align="center">
   <h3>📈 GitHub Activity Graph</h3>
   <a href="https://github.com/shahadathhs">
