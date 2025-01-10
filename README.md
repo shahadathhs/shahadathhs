@@ -80,12 +80,14 @@
 <h2>📊 GitHub Stats</h2>
 
 <!-- Section 1: Streak Stats -->
+<!-- shahadathhs
 <div align="center">
   <h3>🔥 Streak Stats</h3>
   <a href="https://github.com/shahadathhs">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shahadathhs&theme=dark" alt="GitHub Streak Stats" />
   </a>
 </div>
+-->
 
 <!-- Section 2: Language and Overview Stats -->
 <div align="center">
@@ -97,17 +99,29 @@
 </div>
 
 <!-- Section 3: Profile Summary and Details -->
+<!-- shahadathhs
 <div align="center">
   <h3>📊 Profile Summary</h3>
   <a href="https://github.com/shahadathhs">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadathhs&theme=dark" alt="GitHub Profile Details" />
   </a>
 </div>
+-->
 
 <!-- Section 4: Github Trophy -->
+<!-- shahadathhs
 <div align="center">
   <h3>🏆 GitHub Trophy</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=shahadathhs&theme=dracula&title=Followers,Commit,Repositories,Experience&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</div>
+-->
+
+<!-- Section 5: GitHub Activity Graph -->
+<div align="center">
+  <h3>📈 GitHub Activity Graph</h3>
+  <a href="https://github.com/shahadathhs">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs" alt="GitHub Activity Graph" />
   </a>
 </div>
