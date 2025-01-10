@@ -40,8 +40,9 @@
   </a>
 </p>
 
-
 <h2>💻 Tech & Tool Stack</h2>
+
+<div align="center">
 
 | **Category**        | **Technologies**                                                                                                           |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -49,6 +50,8 @@
 | **Frontend**        | ![Tailwind CSS, React, Remix, Next.js](https://skillicons.dev/icons?i=tailwind,react,remix,nextjs&theme=dark)              |
 | **Backend**         | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)                             |
 | **Testing**         | ![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark)                                     |
+
+</div>
 
 
 <h2>📊 GitHub Stats</h2>
