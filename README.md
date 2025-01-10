@@ -53,20 +53,31 @@
 
 <!-- Section 2: Frontend Technologies -->
 <div align="center">
-  <h3>🎨 Frontend & 🔧 Backend Technologies</h3>
+  <h3>🎨 Frontend Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=tailwind,react,remix,nextjs,nodejs,express,mongodb&theme=dark" alt="Frontend Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,remix,nextjs&theme=dark" alt="Frontend Tech Stack" />
   </p>
 </div>
 
+<!-- Section 3: Backend Technologies -->
+<div align="center">
+  <h3>🔧 Backend Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Tech Stack" />
+  </p>
+</div>
+
+
 <!-- Section 3: Tools -->
+<!-- 
 <div align="center">
   <h3>🛠️ Tools & 🔄 Version Control</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,vercel,git,github&theme=dark" alt="Tools" />
   </p>
 </div>
-
+ -->
+ 
 <!-- Section 4: Testing Technologies -->
 <div align="center">
   <h3>✅ Testing Technologies</h3>
