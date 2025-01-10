@@ -43,6 +43,14 @@
 
 <h2>💻 Tech & Tool Stack</h2>
 
+| **Category**        | **Technologies**                                                                                                           |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Languages**       | ![JavaScript, TypeScript](https://skillicons.dev/icons?i=js,ts&theme=dark)                                                 |
+| **Frontend**        | ![Tailwind CSS, React, Remix, Next.js](https://skillicons.dev/icons?i=tailwind,react,remix,nextjs&theme=dark)              |
+| **Backend**         | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)                             |
+| **Testing**         | ![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark)                                     |
+
+
 <!-- Section 1: Languages -->
 <div align="center">
   <h3>🌐 Programming Languages</h3>
@@ -74,12 +82,6 @@
     <img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" alt="Testing Tools" />
   </p>
 </div>
-### 💻 Tech & Tool Stack
-
-**Languages:** ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)  
-**Frontend:** ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Remix](https://skillicons.dev/icons?i=remix&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)  
-**Backend:** ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)  
-**Testing:** ![Jest](https://skillicons.dev/icons?i=jest&theme=dark) ![Vitest](https://skillicons.dev/icons?i=vitest&theme=dark) ![Cypress](https://skillicons.dev/icons?i=cypress&theme=dark)
 
 
 <h2>📊 GitHub Stats</h2>
