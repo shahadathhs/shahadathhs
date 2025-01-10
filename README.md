@@ -74,6 +74,12 @@
     <img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" alt="Testing Tools" />
   </p>
 </div>
+### 💻 Tech & Tool Stack
+
+**Languages:** ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)  
+**Frontend:** ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Remix](https://skillicons.dev/icons?i=remix&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)  
+**Backend:** ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)  
+**Testing:** ![Jest](https://skillicons.dev/icons?i=jest&theme=dark) ![Vitest](https://skillicons.dev/icons?i=vitest&theme=dark) ![Cypress](https://skillicons.dev/icons?i=cypress&theme=dark)
 
 
 <h2>📊 GitHub Stats</h2>
