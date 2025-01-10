@@ -51,39 +51,6 @@
 | **Testing**         | ![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark)                                     |
 
 
-<!-- Section 1: Languages -->
-<div align="center">
-  <h3>🌐 Programming Languages</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Programming Languages" />
-  </p>
-</div>
-
-<!-- Section 2: Frontend Technologies -->
-<div align="center">
-  <h3>🎨 Frontend Technologies</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=tailwind,react,remix,nextjs&theme=dark" alt="Frontend Tech Stack" />
-  </p>
-</div>
-
-<!-- Section 3: Backend Technologies -->
-<div align="center">
-  <h3>🔧 Backend Technologies</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Tech Stack" />
-  </p>
-</div>
- 
-<!-- Section 4: Testing Technologies -->
-<div align="center">
-  <h3>✅ Testing Technologies</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" alt="Testing Tools" />
-  </p>
-</div>
-
-
 <h2>📊 GitHub Stats</h2>
 
 <!-- Section 1: Language and Overview Stats -->
