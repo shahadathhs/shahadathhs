@@ -54,9 +54,17 @@
 </div>
 
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 My Stats</h2>
 
-<!-- Section 1: Language and Overview Stats -->
+<!-- Section 1: Daily.dev -->
+<div align="center">
+<!--   <h3>🔗 Daily.dev and WakaTime</h3> -->
+  <div>
+    <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card" />
+  </div>
+</div>
+
+<!-- Section 2: Language and Overview Stats -->
 <div align="center">
   <h3>📜 Language and Overview</h3>
   <a align="center" href="https://github.com/shahadathhs/github-stats">
@@ -65,7 +73,7 @@
   </a>
 </div>
 
-<!-- Section 2: GitHub Activity Graph -->
+<!-- Section 3: GitHub Activity Graph -->
 <div align="center">
   <h3>📈 GitHub Activity Graph</h3>
   <a href="https://github.com/shahadathhs">
