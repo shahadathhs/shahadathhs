@@ -1,14 +1,3 @@
-<div align="center"> 
-  <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://wakatime.com/badge/user/633a1425-6f0e-49cf-8b4c-b2ed1ff8e455.svg" alt="Waka Time Code Time Count" />
-  <br />
-  <p><em>Stats as of <strong>January 1, 2025</strong></em></p>
-</div>
 
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
