@@ -36,21 +36,22 @@
 | **Category**        | **Technologies**                                                                                                           |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **Languages**       | ![JavaScript, TypeScript](https://skillicons.dev/icons?i=js,ts&theme=dark)                                                 |
-| **Frontend**        | ![Tailwind CSS, React, Remix, Next.js](https://skillicons.dev/icons?i=tailwind,react,remix,nextjs&theme=dark)              |
+| **Frontend**        | ![Tailwind CSS, React, Remix, Next.js](https://skillicons.dev/icons?i=tailwind,remix,nextjs&theme=dark)              |
 | **Backend**         | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)                             |
 | **Testing**         | ![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark)                                     |
 
 </div>
 
 
-<h2>📊 My Stats</h2>
-
+<h2>📊 My Stats</h2> 
 <!-- Section 1: Daily.dev -->
 <div align="center">
 <!--   <h3>🔗 Daily.dev and WakaTime</h3> -->
+  <!--
   <div>
     <img src="https://api.daily.dev/devcards/v2/6ZhjUdRchhuOpkZR8LgkG.png?type=wide&r=miv" width="652" alt="Shahadath Hossen Sajib's Dev Card" />
   </div>
+  -->
 </div>
 
 <!-- Section 2: Language and Overview Stats -->
