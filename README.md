@@ -38,7 +38,7 @@
 | **Languages**       | ![JavaScript, TypeScript](https://skillicons.dev/icons?i=js,ts&theme=dark)                                                 |
 | **Frontend**        | ![Tailwind CSS, React, Remix, Next.js](https://skillicons.dev/icons?i=tailwind,remix,nextjs&theme=dark)              |
 | **Backend**         | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)                             |
-| **Testing**         | ![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark)                                     |
+| **Testing**         | ![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest&theme=dark)                                     |
 
 </div>
 
