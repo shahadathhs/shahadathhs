@@ -2,9 +2,9 @@
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
 <h2>💫 About Me</h2> 
-<p>I'm a passionate <strong>Frontend Developer</strong> with expertise in the <strong>MERN stack</strong> and a focus on building scalable, responsive web applications. I’m skilled in <strong>JavaScript, TypeScript, React, Node.js</strong>, and various other modern web technologies.</p>  
+<p>I'm transitioning into backend development, focusing on building scalable and efficient server-side applications. I have experience setting up servers with Node.js & Express, managing databases with MongoDB & Mongoose, and implementing authentication with JWT.</p>
 
-<p>I also have hands-on experience in <strong>full-stack unit testing</strong>, using <strong>Jest</strong> to ensure robust and reliable code across both frontend and backend applications.</p>  
+<p>Currently, I'm deepening my knowledge of backend tools, best practices, and architecture to become a well-rounded backend engineer.</p>  
 
 <ul>  
   <li>👯 I’m open to collaborating on <strong>Web Development</strong> projects.</li>  
@@ -38,7 +38,7 @@
 | **Languages**       | ![JavaScript, TypeScript](https://skillicons.dev/icons?i=js,ts&theme=dark)                                                 |
 | **Frontend**        | ![Tailwind CSS, React, Remix, Next.js](https://skillicons.dev/icons?i=tailwind,remix,nextjs&theme=dark)              |
 | **Backend**         | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)                             |
-| **Testing**         | ![Jest, Vitest, Cypress](https://skillicons.dev/icons?i=jest,vitest&theme=dark)                                     |
+| **Testing**         | ![Jest, Vitest](https://skillicons.dev/icons?i=jest,vitest&theme=dark)                                      |
 
 </div>
 
