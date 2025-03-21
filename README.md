@@ -11,8 +11,8 @@
 <!--   <li>🌱 Currently learning <strong>Node.js</strong> to expand my backend skills.</li>   -->
   <li>Open to learning & collaboration!</li>
   <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
-  <li>👨‍💻 Check out my projects on my <a href="https://shahadathhs.vercel.app">Portfolio</a></li>  
-  <li>📄 My <a href="https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing">Resume</a></li>  
+<!--   <li>👨‍💻 Check out my projects on my <a href="https://shahadathhs.vercel.app">Portfolio</a></li>   -->
+<!--   <li>📄 My <a href="https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing">Resume</a></li>   -->
 </ul>
 
 
