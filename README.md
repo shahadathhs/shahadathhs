@@ -41,6 +41,7 @@
 | **Backend**         | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)                             |
 | **Testing**         | ![Jest](https://skillicons.dev/icons?i=jest&theme=dark)                                      |
 | **Tools**           | ![VS Code, Postman](https://skillicons.dev/icons?i=vscode,postman&theme=dark)                                      |
+| **Version Control** | ![Git, GitHub](https://skillicons.dev/icons?i=git,github&theme=dark)                                      |
 
 </div>
 
