@@ -35,6 +35,36 @@
 <h2>💻 Tech & Tool Stack</h2>
 
 <div align="center">
+  <!-- Frontend Section -->
+  <h3>Frontend</h3>
+  <p>
+    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=js,ts,react,nextjs,remix,tailwind&theme=dark" alt="Frontend Skills" />
+  </p>
+  
+  <!-- Backend Section -->
+  <h3>Backend</h3>
+  <p>
+    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Skills" />
+    <img src="https:&#x2F;&#x2F;raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose"/>
+  </p>
+  
+  <!-- Tools & Utilities -->
+  <h3>Tools & Utilities</h3>
+  <p>
+    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=git,github,vscode,postman,jest&theme=dark" alt="Tools" />
+  </p>
+
+  <!-- Currently Learning -->
+  <!--
+  <h3>Currently Exploring</h3>
+  <p>
+    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=docker,aws,redis,graphql&theme=dark" alt="Currently Learning" />
+  </p>
+  -->
+</div>
+
+<!--
+<div align="center">
 
 | **Category**        | **Technologies**                                                                                                           |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +76,7 @@
 | **Version Control** | ![Git, GitHub](https://skillicons.dev/icons?i=git,github&theme=dark)                                      |
 
 </div>
-
+-->
 
 <h2>📊 My Stats</h2> 
 <!-- Section 1: Daily.dev -->
