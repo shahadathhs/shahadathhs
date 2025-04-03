@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
 
 <h2>💫 About Me</h2> 
-<p>I'm transitioning into backend development, focusing on building scalable and efficient server-side applications. I have experience setting up servers with Node.js & Express, managing databases with MongoDB & Mongoose, and implementing authentication with JWT.</p>
+<p>I'm transitioning into backend development, focusing on building scalable and efficient server-side applications. I have experience setting up servers with Node.js & Express, managing databases with MongoDB & Mongoose, and implementing authentication with JWT </p>
 
 <p>Currently, I'm deepening my knowledge of backend tools, best practices, and architecture to become a well-rounded backend engineer.</p>  
 
@@ -39,7 +39,8 @@
 | **Languages**       | ![JavaScript, TypeScript](https://skillicons.dev/icons?i=js,ts&theme=dark)                                                 |
 | **Frontend**        | ![Tailwind CSS, React, Remix, Next.js](https://skillicons.dev/icons?i=tailwind,remix,nextjs&theme=dark)              |
 | **Backend**         | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)                             |
-| **Testing**         | ![Jest, Vitest](https://skillicons.dev/icons?i=jest,vitest&theme=dark)                                      |
+| **Testing**         | ![Jest](https://skillicons.dev/icons?i=jest&theme=dark)                                      |
+| **Tools**           | ![VS Code, Postman](https://skillicons.dev/icons?i=vscode,postman&theme=dark)                                      |
 
 </div>
 
