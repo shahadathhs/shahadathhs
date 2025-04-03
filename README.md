@@ -73,3 +73,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs" alt="GitHub Activity Graph" />
   </a>
 </div>
+
+<!-- Section 4: Last Year Stats -->
+<div align="center">
+  <h3>🌟 Last Year Stats</h3>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Last Year Stat" />
+</div>
