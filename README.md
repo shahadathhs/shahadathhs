@@ -1,5 +1,7 @@
-
-<h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2>
+ <!-- <h2 align="center">Hi 👋, I'm Shahadath Hossen Sajib</h2> -->
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45" alt="Shahadath Hossen Sajib">
+</h2>
 
 <h2>💫 About Me</h2> 
 <p>I'm transitioning into backend development, focusing on building scalable and efficient server-side applications. I have experience setting up servers with Node.js & Express, managing databases with MongoDB & Mongoose, and implementing authentication with JWT </p>
