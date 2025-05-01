@@ -63,6 +63,13 @@
   <p>
     <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=postgres,prisma&theme=dark" alt="Currently Learning" />
   </p>
+
+  <!-- Monorepo Tools -->
+  <h3>Monorepo Tools</h3>
+  <p>
+    <img src="logo/turborepo.png" width="40" alt="Turborepo" />
+    <img src="logo/nx.png" width="40" alt="Nx" />
+  </p>
 </div>
 
 <h2>📊 My Stats</h2> 
