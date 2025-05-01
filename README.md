@@ -72,6 +72,34 @@
   </p>
 </div>
 
+<h2>💼 Experience</h2>
+
+<h3>🚀 Monster Studio (Chattogram, Bangladesh · On-site)</h3>
+
+<p><strong>Web Developer</strong><br />
+<em>🗓️ Nov 2024 – Mar 2025 (5 months)</em></p>
+<ul>
+  <li>Contributed to both frontend and backend development in a large-scale <strong>MERN stack</strong> project.</li>
+  <li>Built reusable components and REST APIs using <strong>React.js</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
+  <li>Directly managed and configured a large-scale <strong>Nx monorepo</strong>, optimizing for modularity and scalability.</li>
+  <li>Led a small frontend team for several weeks, facilitating collaboration and improving productivity.</li>
+</ul>
+
+<p><strong>Quality Assurance Intern</strong><br />
+<em>🗓️ Sep 2024 – Oct 2024 (2 months)</em></p>
+<ul>
+  <li>Wrote comprehensive <strong>unit tests</strong> for both frontend and backend using <strong>Jest</strong>, <strong>Vitest</strong>, <strong>MSW</strong>, and <strong>Supertest</strong>.</li>
+  <li>Explored and experimented with <strong>K6</strong> for backend <strong>load testing</strong> and performance profiling.</li>
+  <li>Contributed to improving overall code quality and reliability in a full-stack testing environment.</li>
+</ul>
+
+<p><strong>Trainee Frontend Developer</strong><br />
+<em>🗓️ Aug 2024 (1 month)</em></p>
+<ul>
+  <li>Gained practical experience with <strong>React.js</strong>, <strong>Tailwind CSS</strong>, and modern frontend workflows.</li>
+  <li>Participated in UI implementation, responsive design, and component architecture basics.</li>
+</ul>
+
 <h2>📊 My Stats</h2> 
 <!-- Section 1: Language and Overview Stats -->
 <div align="center">
