@@ -48,20 +48,14 @@
   <!-- Backend Section -->
   <h3>Backend & Testing</h3>
   <p>
-    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=nodejs,express,jest&theme=dark" alt="Backend Skills" />
-  </p>
-
-  <!-- Database Section -->
-  <h3>Database</h3>
-  <p>
-    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=mongodb&theme=dark" alt="Database Skills" />
+    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=nodejs,express,jest,mongodb&theme=dark" alt="Backend Skills" />
     <img src="https:&#x2F;&#x2F;raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose"/>
   </p>
   
   <!-- Tools -->
   <h3>Tools</h3>
   <p>
-    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm&theme=dark" alt="Tools" />
   </p>
 
   <!-- Currently Learning -->
