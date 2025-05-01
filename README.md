@@ -80,7 +80,7 @@
 <em>🗓️ Nov 2024 – Mar 2025 (5 months)</em></p>
 <ul>
   <li>Contributed to both frontend and backend development in a large-scale <strong>MERN stack</strong> project.</li>
-  <li>Built reusable components and REST APIs using <strong>React.js</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
+  <li>Built reusable components and REST APIs using <strong>React.js</strong>, <strong>Remix</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
   <li>Directly managed and configured a large-scale <strong>Nx monorepo</strong>, optimizing for modularity and scalability.</li>
   <li>Led a small frontend team for several weeks, facilitating collaboration and improving productivity.</li>
 </ul>
