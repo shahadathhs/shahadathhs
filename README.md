@@ -49,7 +49,7 @@
   <h3>Backend & Testing</h3>
   <p>
     <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=nodejs,express,jest,mongodb&theme=dark" alt="Backend Skills" />
-    <img src="https:&#x2F;&#x2F;raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose"/>
+<!--     <img src="https:&#x2F;&#x2F;raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose"/> -->
   </p>
   
   <!-- Tools -->
