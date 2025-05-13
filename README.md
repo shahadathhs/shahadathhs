@@ -18,7 +18,7 @@
   <li>🌱 Currently learning <strong>Postgres</strong> & <strong>Prisma</strong> to expand my database skills.</li>  
   <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
   <li>👨‍💻 Check out my projects on my <a href="https://shahadathhs.vercel.app">Portfolio</a></li>  
-<!--   <li>📄 My <a href="https://docs.google.com/document/d/1F4lDxGKNkrY5k2UB7CEjSSNqoK06COyGfz5KDlSH0kY/edit?usp=sharing">Resume</a></li>   -->
+  <li>📄 My <a href="https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view?usp=drive_link">Resume</a></li>  
 </ul>
 
 
