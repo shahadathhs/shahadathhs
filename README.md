@@ -15,7 +15,7 @@
 
 <ul>  
   <li>👯 Open to learning, collaboration & backend roles!</li>
-  <li>🌱 Currently learning <strong>Postgres</strong> & <strong>Prisma</strong> to expand my database skills.</li>  
+  <li>🌱 Currently expending my <strong>Postgres</strong> & <strong>Nestjs</strong> skills.</li>  
   <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
   <li>👨‍💻 Check out my projects on my <a target="_blank" href="https://shahadathhs.vercel.app">Portfolio</a></li>  
   <li>📄 My <a target="_blank" href="https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view?usp=drive_link">Resume</a></li>  
