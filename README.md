@@ -1,26 +1,26 @@
 ![My Profile](./github-cover.png)
- 
+
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45" alt="Shahadath Hossen Sajib">
 </h2>
 
-<h2>💫 About Me</h2> 
-<p>I’m a backend developer passionate about building scalable, efficient, and secure server-side applications.</p>
+<h2>💫 About Me</h2>
 
-<p>I’m deeply focused on mastering backend architecture, database design, API security, and real-world system design.</p>
+<p>I’m a passionate MERN stack developer with a strong focus on backend development. I specialize in building scalable, efficient, and secure server-side applications using Node.js, Express, MongoDB, and modern frontend tools like React Router V7 and Next.js.</p>
 
-<p>I aim to become a highly skilled backend engineer, capable of building robust, scalable systems and contributing to complex backend infrastructures.</p>
+<p>I'm deeply committed to mastering backend architecture, API security, database design, and real-world system design while also crafting smooth client-side experiences using React Router v7 and server-side rendering with Next.js.</p>
 
-<p>I’m excited to learn, grow, and collaborate with innovative teams that value clean code, scalability, and strong engineering practices.</p>
+<p>My goal is to become a highly skilled engineer capable of developing robust, fullstack systems and contributing to both frontend and backend infrastructures.</p>
+
+<p>I’m excited to keep learning, growing, and collaborating with innovative teams that value clean code, performance, and modern engineering best practices.</p>
 
 <ul>  
-  <li>👯 Open to learning, collaboration & backend roles!</li>
+  <li>👯 Open to learning, collaboration, MERN stack & backend roles!</li>
   <li>🌱 Currently expending my <strong>Postgres</strong> & <strong>Nestjs</strong> skills.</li>  
   <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
   <li>👨‍💻 Check out my projects on my <a target="_blank" href="https://shahadathhs.vercel.app">Portfolio</a></li>  
   <li>📄 My <a target="_blank" href="https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view?usp=drive_link">Resume</a></li>  
 </ul>
-
 
 <h2>🌐 Connect with Me</h2>
 
@@ -39,38 +39,18 @@
 <h2>💻 Tech & Tool Stack</h2>
 
 <div align="center">
-  <!-- Language Section -->
-  <h3>Language</h3>
-  <p>
-    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=js,ts&theme=dark" alt="Language" />
-  </p>
-  
-  <!-- Backend Section -->
-  <h3>Backend & Testing</h3>
-  <p>
-    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=nodejs,express,nestjs,jest&theme=dark" alt="Backend Skills" />
-  </p>
 
-  <!-- Database -->
-  <h3>Database</h3>
-  <p>
-    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" alt="Currently Learning" />
-    <img src="https:&#x2F;&#x2F;raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose"/>
-  </p>
-  
- <!-- Tools -->
-  <h3>Tools</h3>
-  <p>
-    <img src="https:&#x2F;&#x2F;skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,vercel&theme=dark" alt="Tools" />
-  </p>
-  
-  <!-- Monorepo Tools -->
-  <h3>Monorepo Tools</h3>
-  <p>
-    <img src="logo/turborepo.png" width="40" alt="Turborepo" />
-    <img src="logo/nx.png" width="40" alt="Nx" />
-  </p>
+| Category           | Technologies |
+|--------------------|--------------|
+| **Language**        | <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages" /> |
+| **Frontend**        | <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend" /> |
+| **Backend & Testing** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest&theme=dark" alt="Backend & Testing" /> |
+| **Database**        | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" alt="Database" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="32" height="32" alt="Mongoose"/> |
+| **Tools**           | <img src="https://skillicons.dev/icons?i=git,github,postman,pnpm,vercel&theme=dark" alt="Tools" /> |
+| **Monorepo Tools**  | <img src="logo/turborepo.png" width="40" alt="Turborepo" /> <img src="logo/nx.png" width="40" alt="Nx" /> |
+
 </div>
+
 
 <h2>💼 Experience</h2>
 
