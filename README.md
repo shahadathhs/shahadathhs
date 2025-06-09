@@ -1,4 +1,4 @@
-![My Profile](./github-cover.png)
+![My Profile](./cover.png)
 
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45" alt="Shahadath Hossen Sajib">
