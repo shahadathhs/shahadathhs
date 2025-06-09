@@ -6,16 +6,16 @@
 
 <h2>💫 About Me</h2>
 
-<p>I’m a passionate MERN stack developer with a strong focus on backend development. I specialize in building scalable, efficient, and secure server-side applications using Node.js, Express, MongoDB, and modern frontend tools like React Router V7 and Next.js.</p>
+<p>I’m a backend developer passionate about building scalable, efficient, and secure server-side applications.</p>
 
-<p>I'm deeply committed to mastering backend architecture, API security, database design, and real-world system design while also crafting smooth client-side experiences using React Router v7 and server-side rendering with Next.js.</p>
+<p>I'm deeply committed to mastering backend architecture, API security, database design, and real-world system design.</p>
 
-<p>My goal is to become a highly skilled engineer capable of developing robust, fullstack systems and contributing to both frontend and backend infrastructures.</p>
+<p>I aim to become a highly skilled backend engineer capable of developing robust systems and contributing to infrastructures.</p>
 
 <p>I’m excited to keep learning, growing, and collaborating with innovative teams that value clean code, performance, and modern engineering best practices.</p>
 
 <ul>  
-  <li>👯 Open to learning, collaboration, MERN stack & backend roles!</li>
+  <li>👯 Open to learning, collaboration & backend roles!</li>
   <li>🌱 Currently expending my <strong>Postgres</strong> & <strong>Nestjs</strong> skills.</li>  
   <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
   <li>👨‍💻 Check out my projects on my <a target="_blank" href="https://shahadathhs.vercel.app">Portfolio</a></li>  
