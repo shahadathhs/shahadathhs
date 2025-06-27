@@ -1,6 +1,10 @@
 ![My Profile](./cover.png)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45)](https://github.com/shahadathhs)
+
+</div>
 
 ## 💫 About Me
 
@@ -52,17 +56,21 @@ I’m excited to keep learning, growing, and collaborating with innovative teams
 - Used **K6** for backend **load testing** and performance profiling.
 - Helped improve code quality and reliability in a full-stack testing setup.
 
-<!-- ## 📊 My Stats -->
+## 📊 My Stats
 
-<!-- ### 📜 Language and Overview
+### 📜 Language and Overview
+
+<div align="center">
 
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![Languages Used](https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only) -->
+![Languages Used](https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-## 📈 GitHub Activity Graph
+</div>
+
+### 📈 GitHub Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs)
 
-## 🌟 Last Year Stats
+### 🌟 Last Year Stats
 
 ![3D Contribution](./profile-3d-contrib/profile-night-green.svg)
