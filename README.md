@@ -24,9 +24,13 @@ I’m excited to keep learning, growing, and collaborating with innovative teams
 
 ## 🌐 Connect with Me
 
+<div align="center">
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/shahadathhs)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:shahadathhossensajib732@gmail.com)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/shahadathhs)
+
+</div>
 
 ## 💻 Tech & Tool Stack
 
@@ -69,8 +73,16 @@ I’m excited to keep learning, growing, and collaborating with innovative teams
 
 ### 📈 GitHub Activity Graph
 
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs)
+
+</div>
 
 ### 🌟 Last Year Stats
 
+<div align="center">
+
 ![3D Contribution](./profile-3d-contrib/profile-night-green.svg)
+
+</div>
