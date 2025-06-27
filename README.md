@@ -34,14 +34,59 @@ I’m excited to keep learning, growing, and collaborating with innovative teams
 
 ## 💻 Tech & Tool Stack
 
-| Category                 | Technologies |
-|--------------------------|--------------|
-| **Language**             | ![JS](https://skillicons.dev/icons?i=js&theme=dark) ![TS](https://skillicons.dev/icons?i=ts&theme=dark) |
-| **Backend**              | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark) |
-| **Database**             | ![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark) ![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) |
-| **Version Control & CI/CD** | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark) |
-| **Package Management**   | ![npm](https://skillicons.dev/icons?i=npm&theme=dark) ![pnpm](https://skillicons.dev/icons?i=pnpm&theme=dark) |
-| **Container**            | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |
+<div align="left">
+
+### 🗣️ Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ Backend
+
+![Nodejs](https://img.shields.io/badge/Node-009688?style=for-the-badge&logo=javascript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-009688?style=for-the-badge&logo=express&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest-009688?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧪 API Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-6E9F18?style=for-the-badge&logo=jest&logoColor=white)
+
+### 🖥️ Terminal
+
+![Warp](https://img.shields.io/badge/Warp-4A90E2?style=for-the-badge&logo=warp&logoColor=white)
+
+### 🌳 Version Control & CI/CD
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🛠️ Development Tools
+
+![Prettier](https://img.shields.io/badge/Prettier-FF5B00?style=for-the-badge&logo=prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+### 🚀 Container Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📚 API Documentation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📦 Package Management
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ## 💼 Experience
 
