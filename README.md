@@ -1,100 +1,84 @@
 ![My Profile](./cover.png)
 
-<h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45" alt="Shahadath Hossen Sajib">
-</h2>
+## 👋 Hi, I'm Shahadath Hossen Sajib
 
-<h2>💫 About Me</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45)](https://github.com/shahadathhs)
 
-<p>I’m a backend developer passionate about building scalable, efficient, and secure server-side applications.</p>
+---
 
-<p>I'm deeply committed to mastering backend architecture, API security, database design, and real-world system design.</p>
+## 💫 About Me
 
-<p>I aim to become a highly skilled backend engineer capable of developing robust systems and contributing to infrastructures.</p>
+I’m a backend developer passionate about building scalable, efficient, and secure server-side applications.
 
-<p>I’m excited to keep learning, growing, and collaborating with innovative teams that value clean code, performance, and modern engineering best practices.</p>
+I'm deeply committed to mastering backend architecture, API security, database design, and real-world system design.
 
-<ul>  
-  <li>👯 Open to learning, collaboration & backend roles!</li>
-  <li>🌱 Currently expending my <strong>Postgres</strong> & <strong>Nestjs</strong> skills.</li>  
-  <li>📫 You can reach me at <a href="mailto:shahadathhossensajib732@gmail.com">shahadathhossensajib732@gmail.com</a></li>  
-  <li>👨‍💻 Check out my projects on my <a target="_blank" href="https://shahadathhs.vercel.app">Portfolio</a></li>  
-  <li>📄 My <a target="_blank" href="https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view?usp=drive_link">Resume</a></li>  
-</ul>
+I aim to become a highly skilled backend engineer capable of developing robust systems and contributing to infrastructures.
 
-<h2>🌐 Connect with Me</h2>
+I’m excited to keep learning, growing, and collaborating with innovative teams that value clean code, performance, and modern engineering best practices.
 
-<p align="center">
-  <a href="https://linkedin.com/in/shahadathhs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shahadathhossensajib732@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/shahadathhs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
-  </a>
-</p>
+- 👯 Open to learning, collaboration & backend roles!
+- 🌱 Currently expanding my **Postgres** & **NestJS** skills.
+- 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
+- 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
+- 📄 View my [Resume](https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view?usp=drive_link)
 
-<h2>💻 Tech & Tool Stack</h2>
+---
 
-<div align="center">
+## 🌐 Connect with Me
 
-| Category           | Technologies |
-|--------------------|--------------|
-| **Language**        | <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" /> |
-| **Database**        | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" alt="Database" /> |
-| **Version Control & CI/CD** | <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" alt="Version Control & CI/CD" /> |
-| **Package Management** | <img src="https://skillicons.dev/icons?i=npm,pnpm&theme=dark" alt="Package managers" /> |
-| **Container Orchestration** | <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Package managers" /> |
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/shahadathhs)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:shahadathhossensajib732@gmail.com)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/shahadathhs)
 
-</div>
+---
 
+## 💻 Tech & Tool Stack
 
-<h2>💼 Experience</h2>
+| Category                 | Technologies |
+|--------------------------|--------------|
+| **Language**             | ![JS](https://skillicons.dev/icons?i=js&theme=dark) ![TS](https://skillicons.dev/icons?i=ts&theme=dark) |
+| **Backend**              | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark) |
+| **Database**             | ![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark) ![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) |
+| **Version Control & CI/CD** | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark) |
+| **Package Management**   | ![npm](https://skillicons.dev/icons?i=npm&theme=dark) ![pnpm](https://skillicons.dev/icons?i=pnpm&theme=dark) |
+| **Container**            | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |
 
-<h3>🚀 Monster Studio (Chattogram, Bangladesh · On-site)</h3>
+---
 
-<p><strong>Web Developer</strong><br />
-<em>🗓️ Nov 2024 – Mar 2025 (5 months)</em></p>
-<ul>
-  <li>Contributed to both frontend and backend development in a large-scale <strong>MERN stack</strong> project.</li>
-  <li>Built reusable components and REST APIs using <strong>React.js</strong>, <strong>Remix</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>.</li>
-  <li>Directly managed and configured a large-scale <strong>Nx monorepo</strong>, optimizing for modularity and scalability.</li>
-  <li>Led a small frontend team for several weeks, facilitating collaboration and improving productivity.</li>
-</ul>
+## 💼 Experience
 
-<p><strong>Quality Assurance Intern</strong><br />
-<em>🗓️ Aug 2024 – Oct 2024 (3 months)</em></p>
-<ul>
-  <li>Wrote comprehensive <strong>unit tests</strong> for both frontend and backend using <strong>Jest</strong>, <strong>Vitest</strong>, <strong>MSW</strong>, and <strong>Supertest</strong>.</li>
-  <li>Explored and experimented with <strong>K6</strong> for backend <strong>load testing</strong> and performance profiling.</li>
-  <li>Contributed to improving overall code quality and reliability in a full-stack testing environment.</li>
-</ul>
+### 🚀 Monster Studio (Chattogram, Bangladesh · On-site)
 
-<h2>📊 My Stats</h2> 
-<!-- Section 1: Language and Overview Stats -->
-<div align="center">
-  <h3>📜 Language and Overview</h3>
-  <a align="center" href="https://github.com/shahadathhs/github-stats">
-    <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" />
-    <img src="https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages Stats" />
-  </a>
-</div>
+#### Web Developer  
+**Nov 2024 – Mar 2025 (5 months)**  
+- Contributed to both frontend and backend development in a large-scale **MERN stack** project.
+- Built reusable components and REST APIs using **React.js**, **Remix**, **Express.js**, **Node.js**, and **MongoDB**.
+- Managed and configured a large-scale **Nx monorepo** for modularity and scalability.
+- Led a small frontend team, improving collaboration and productivity.
 
-<!-- Section 2: GitHub Activity Graph -->
-<!--
-<div align="center">
-  <h3>📈 GitHub Activity Graph</h3>
-  <a href="https://github.com/shahadathhs">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs" alt="GitHub Activity Graph" />
-  </a>
-</div>
--->
+#### Quality Assurance Intern  
+**Aug 2024 – Oct 2024 (3 months)**  
+- Wrote unit tests for frontend and backend using **Jest**, **Vitest**, **MSW**, and **Supertest**.
+- Used **K6** for backend **load testing** and performance profiling.
+- Helped improve code quality and reliability in a full-stack testing setup.
 
-<!-- Section 3: Last Year Stats -->
-<div align="center">
-  <h3>🌟 Last Year Stats</h3>
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Last Year Stat" />
-</div>
+---
+
+## 📊 My Stats
+
+### 📜 Language and Overview
+
+![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![Languages Used](https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
+---
+
+### 📈 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs)
+
+---
+
+### 🌟 Last Year Stats
+
+![3D Contribution](./profile-3d-contrib/profile-night-green.svg)
