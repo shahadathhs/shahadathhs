@@ -1,10 +1,6 @@
 ![My Profile](./cover.png)
 
-## 👋 Hi, I'm Shahadath Hossen Sajib
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45)](https://github.com/shahadathhs)
-
----
 
 ## 💫 About Me
 
@@ -20,17 +16,13 @@ I’m excited to keep learning, growing, and collaborating with innovative teams
 - 🌱 Currently expanding my **Postgres** & **NestJS** skills.
 - 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
 - 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
-- 📄 View my [Resume](https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view?usp=drive_link)
-
----
+- 📄 View my [Resume](https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view)
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/shahadathhs)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:shahadathhossensajib732@gmail.com)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/shahadathhs)
-
----
 
 ## 💻 Tech & Tool Stack
 
@@ -42,8 +34,6 @@ I’m excited to keep learning, growing, and collaborating with innovative teams
 | **Version Control & CI/CD** | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark) |
 | **Package Management**   | ![npm](https://skillicons.dev/icons?i=npm&theme=dark) ![pnpm](https://skillicons.dev/icons?i=pnpm&theme=dark) |
 | **Container**            | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |
-
----
 
 ## 💼 Experience
 
@@ -62,23 +52,17 @@ I’m excited to keep learning, growing, and collaborating with innovative teams
 - Used **K6** for backend **load testing** and performance profiling.
 - Helped improve code quality and reliability in a full-stack testing setup.
 
----
+<!-- ## 📊 My Stats -->
 
-## 📊 My Stats
-
-### 📜 Language and Overview
+<!-- ### 📜 Language and Overview
 
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![Languages Used](https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![Languages Used](https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only) -->
 
----
-
-### 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs)
 
----
-
-### 🌟 Last Year Stats
+## 🌟 Last Year Stats
 
 ![3D Contribution](./profile-3d-contrib/profile-night-green.svg)
