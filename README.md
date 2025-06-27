@@ -62,7 +62,7 @@
 </ul>
 
 <p><strong>Quality Assurance Intern</strong><br />
-<em>🗓️ Aug 2024 – Oct 2024 (2 months)</em></p>
+<em>🗓️ Aug 2024 – Oct 2024 (3 months)</em></p>
 <ul>
   <li>Wrote comprehensive <strong>unit tests</strong> for both frontend and backend using <strong>Jest</strong>, <strong>Vitest</strong>, <strong>MSW</strong>, and <strong>Supertest</strong>.</li>
   <li>Explored and experimented with <strong>K6</strong> for backend <strong>load testing</strong> and performance profiling.</li>
@@ -80,15 +80,17 @@
 </div>
 
 <!-- Section 2: GitHub Activity Graph -->
+<!--
 <div align="center">
   <h3>📈 GitHub Activity Graph</h3>
   <a href="https://github.com/shahadathhs">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs" alt="GitHub Activity Graph" />
   </a>
 </div>
+-->
 
 <!-- Section 3: Last Year Stats -->
 <div align="center">
   <h3>🌟 Last Year Stats</h3>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Last Year Stat" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Last Year Stat" />
 </div>
