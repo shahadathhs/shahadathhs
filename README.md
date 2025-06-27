@@ -44,7 +44,7 @@
 |--------------------|--------------|
 | **Language**        | <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend & Testing" /> |
-| **Database**        | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" alt="Database" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="32" height="32" alt="Mongoose"/> |
+| **Database**        | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" alt="Database" /> |
 </div>
 
 
