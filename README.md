@@ -43,8 +43,12 @@
 | Category           | Technologies |
 |--------------------|--------------|
 | **Language**        | <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend & Testing" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" /> |
 | **Database**        | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" alt="Database" /> |
+| **Version Control & CI/CD** | <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" alt="Version Control & CI/CD" /> |
+| **Package Management** | <img src="https://skillicons.dev/icons?i=npm,pnpm&theme=dark" alt="Package managers" /> |
+| **Container Orchestration** | <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Package managers" /> |
+
 </div>
 
 
