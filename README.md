@@ -43,12 +43,8 @@
 | Category           | Technologies |
 |--------------------|--------------|
 | **Language**        | <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages" /> |
-| **Frontend**        | <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend" /> |
-| **Backend & Testing** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest&theme=dark" alt="Backend & Testing" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend & Testing" /> |
 | **Database**        | <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb&theme=dark" alt="Database" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="32" height="32" alt="Mongoose"/> |
-| **Tools**           | <img src="https://skillicons.dev/icons?i=git,github,postman,pnpm,vercel&theme=dark" alt="Tools" /> |
-| **Monorepo Tools**  | <img src="logo/turborepo.png" width="40" alt="Turborepo" /> <img src="logo/nx.png" width="40" alt="Nx" /> |
-
 </div>
 
 
@@ -66,18 +62,11 @@
 </ul>
 
 <p><strong>Quality Assurance Intern</strong><br />
-<em>🗓️ Sep 2024 – Oct 2024 (2 months)</em></p>
+<em>🗓️ Aug 2024 – Oct 2024 (2 months)</em></p>
 <ul>
   <li>Wrote comprehensive <strong>unit tests</strong> for both frontend and backend using <strong>Jest</strong>, <strong>Vitest</strong>, <strong>MSW</strong>, and <strong>Supertest</strong>.</li>
   <li>Explored and experimented with <strong>K6</strong> for backend <strong>load testing</strong> and performance profiling.</li>
   <li>Contributed to improving overall code quality and reliability in a full-stack testing environment.</li>
-</ul>
-
-<p><strong>Trainee Frontend Developer</strong><br />
-<em>🗓️ Aug 2024 (1 month)</em></p>
-<ul>
-  <li>Gained practical experience with <strong>React.js</strong>, <strong>Tailwind CSS</strong>, and modern frontend workflows.</li>
-  <li>Participated in UI implementation, responsive design, and component architecture basics.</li>
 </ul>
 
 <h2>📊 My Stats</h2> 
