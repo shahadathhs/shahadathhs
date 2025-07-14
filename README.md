@@ -87,10 +87,21 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 ## 💼 Experience
 
+### 🚀 Softvence Agency (Dhaka, Bangladesh · On-site)
+
+#### Back End Developer 
+**July 2025 – Present**  
+- Building and maintaining scalable RESTful APIs using **NestJS** and **TypeScript**.
+- Working with **Drizzle ORM** and **Prisma** for efficient, type-safe database access.
+- Designing and managing relational schemas in **PostgreSQL**.
+- 'Collaborating with the frontend team to deliver production-ready features.
+- Implementing best practices for code quality, testing, and documentation.
+
+
 ### 🚀 Monster Studio (Chattogram, Bangladesh · On-site)
 
 #### Web Developer  
-**Nov 2024 – Mar 2025 (5 months)**  
+**Nov 2024 – Apr 2025 (6 months)**  
 - Contributed to both frontend and backend development in a large-scale **MERN stack** project.
 - Built reusable components and REST APIs using **React.js**, **Remix**, **Express.js**, **Node.js**, and **MongoDB**.
 - Managed and configured a large-scale **Nx monorepo** for modularity and scalability.
@@ -115,11 +126,13 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 ### 📈 GitHub Activity Graph
 
+<!--
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs)
 
 </div>
+-->
 
 ### 🌟 Last Year Stats
 
