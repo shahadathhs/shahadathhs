@@ -124,9 +124,9 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 </div>
 
+<!--
 ### 📈 GitHub Activity Graph
 
-<!--
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs)
