@@ -132,7 +132,6 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 </div>
 
-<!--
 ### 📈 GitHub Activity Graph
 
 <div align="center">
@@ -140,7 +139,6 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs)
 
 </div>
--->
 
 ### 🌟 Last Year Stats
 
