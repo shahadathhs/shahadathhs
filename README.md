@@ -1,4 +1,4 @@
-![My Profile](./cover.png)
+![My Profile](./banner.png)
 
 <div align="center">
 
