@@ -15,6 +15,7 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 - 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
 - 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
 - 📄 View my [Resume](https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view)
+- 🧩 Solve with me on [LeetCode](https://leetcode.com/u/shahadathhs/)
 
 ## 🌐 Connect with Me
 
@@ -113,6 +114,14 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 - Helped improve code quality and reliability in a full-stack testing setup.
 
 ## 📊 My Stats
+
+### 💡 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shahadathhs?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shahadathhs/)
+
+</div>
 
 ### 📜 Language and Overview
 
