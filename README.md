@@ -11,7 +11,7 @@
 I’m a backend developer passionate about building scalable, efficient, and secure server-side applications. I'm deeply committed to mastering backend architecture, API security, database design, and designing real-world systems. I aim to become a highly skilled backend engineer capable of developing robust systems and contributing to infrastructures. I’m excited to keep learning, growing, and collaborating with innovative teams that value clean code, performance, and modern engineering best practices.
 
 - 👯 Open to learning, collaboration!
-- 🌱 Currently expanding my **Postgres** & **NestJS** skills.
+- 🌱 Currently expanding my **Golang**, **Postgres** & **NestJS** skills.
 - 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
 - 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
 - 📄 View my [Resume](https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view)
@@ -36,6 +36,7 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 ![JavaScript](https://img.shields.io/badge/JavaScript\(ES6%2B\)-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### ⚙️ Backend
 
@@ -50,11 +51,12 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-
+<!--
 ### 🧪 API Testing
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge\&logo=testing-library\&logoColor=white)
+-->
 
 ### 🌳 Version Control & CI/CD
 
@@ -73,6 +75,7 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 ![Warp](https://img.shields.io/badge/Warp-0D1117?style=for-the-badge\&logo=warp\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=codemirror&logoColor=white)
 
+<!--
 ### 📚 API Documentation
 
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge\&logo=openapiinitiative\&logoColor=white)
@@ -82,6 +85,7 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge\&logo=pnpm\&logoColor=white)
+-->
 
 </div>
 
