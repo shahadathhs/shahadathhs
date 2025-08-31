@@ -14,7 +14,7 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 - 🌱 Currently expanding my **Golang**, **Postgres** & **NestJS** skills.
 - 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
 - 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
-- 📄 View my [Resume](https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view)
+- 📄 View my [Resume](https://drive.google.com/file/d/1YIetBuc3cDGqCmybWIKvMi1cnzup6THv/view)
 - 🧩 Solve with me on [LeetCode](https://leetcode.com/u/shahadathhs/)
 
 ## 🌐 Connect with Me
