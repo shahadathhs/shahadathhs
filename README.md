@@ -61,10 +61,11 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-CD0000?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🧪 API Testing
+### 🔐 Authentication & Security
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge\&logo=testing-library\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-3382C2?style=for-the-badge&logo=lock&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C8DBC?style=for-the-badge&logo=openid&logoColor=white)
 
 
 ### 🌳 Version Control & CI/CD
@@ -89,6 +90,16 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧪 API Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge\&logo=testing-library\&logoColor=white)
+
+### 💳 Payment & Communication
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 📦 Package Management
 
