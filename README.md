@@ -113,8 +113,7 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 ### 🚀 Softvence Agency (Dhaka, Bangladesh · On-site)
 
-#### Back End Developer 
-**July 2025 – Present**  
+#### Back End Developer  (July 2025 – Present)
 - Building and maintaining scalable RESTful APIs using **NestJS** and **TypeScript**.
 - Working with **Drizzle ORM** and **Prisma** for efficient, type-safe database access.
 - Designing and managing relational schemas in **PostgreSQL**.
@@ -124,15 +123,13 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 ### 🚀 Monster Studio (Chattogram, Bangladesh · On-site)
 
-#### Web Developer  
-**Nov 2024 – Apr 2025**  
+#### Web Developer (Nov 2024 – Apr 2025)
 - Contributed to both frontend and backend development in a large-scale **MERN stack** project.
 - Built reusable components and REST APIs using **React.js**, **Remix**, **Express.js**, **Node.js**, and **MongoDB**.
 - Managed and configured a large-scale **Nx monorepo** for modularity and scalability.
 - Led a small frontend team, improving collaboration and productivity.
 
-#### Quality Assurance Intern  
-**Aug 2024 – Oct 2024**  
+#### Quality Assurance Intern  (Aug 2024 – Oct 2024)  
 - Wrote unit tests for frontend and backend using **Jest**, **Vitest**, **MSW**, and **Supertest**.
 - Used **K6** for backend **load testing** and performance profiling.
 - Helped improve code quality and reliability in a full-stack testing setup.
