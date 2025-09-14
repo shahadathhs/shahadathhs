@@ -148,8 +148,8 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 
 <div align="center">
 
-![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![Languages Used](https://github.com/shahadathhs/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
+![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
