@@ -11,7 +11,7 @@
 I’m a backend developer passionate about building scalable, efficient, and secure server-side applications. I'm deeply committed to mastering backend architecture, API security, database design, and designing real-world systems. I aim to become a highly skilled backend engineer capable of developing robust systems and contributing to infrastructures. I’m excited to keep learning, growing, and collaborating with innovative teams that value clean code, performance, and modern engineering best practices.
 
 - 👯 Open to learning, collaboration!
-- 🌱 Currently expanding my **Golang**, **Postgres** & **NestJS** skills.
+- 🌱 Currently expanding my **Golang**, **C++** & **DSA** skills.
 - 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
 - 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
 - 📄 View my [Resume](https://drive.google.com/file/d/1YIetBuc3cDGqCmybWIKvMi1cnzup6THv/view)
