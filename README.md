@@ -8,10 +8,10 @@
 
 ## 💫 About Me
 
-I’m a backend developer passionate about building scalable, efficient, and secure server-side applications. I'm deeply committed to mastering backend architecture, API security, database design, and designing real-world systems. I aim to become a highly skilled backend engineer capable of developing robust systems and contributing to infrastructures. I’m excited to keep learning, growing, and collaborating with innovative teams that value clean code, performance, and modern engineering best practices.
+I’m a backend developer passionate about building scalable, efficient, and secure server-side applications. I’m dedicated to mastering backend architecture, API security, database design, and designing real-world systems. My goal is to become a highly skilled backend engineer capable of developing robust systems and contributing to complex infrastructures. I’m always eager to learn, grow, and collaborate with innovative teams that value clean code, high performance, and modern engineering best practices.
 
-- 👯 Open to learning, collaboration!
-- 🌱 Currently expanding my **Golang**, **C++** & **DSA** skills.
+- 👯 Open to learning and collaboration!
+- 🌱 Currently expanding my **Golang**, **C++**, and **DSA** skills.
 - 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
 - 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
 - 📄 View my [Resume](https://drive.google.com/file/d/1YIetBuc3cDGqCmybWIKvMi1cnzup6THv/view)
@@ -32,10 +32,11 @@ I’m a backend developer passionate about building scalable, efficient, and sec
 <div align="left">
 
 ### 🗣️ Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🖥️ Frontend & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
