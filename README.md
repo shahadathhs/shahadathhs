@@ -153,7 +153,6 @@ Full-Stack Developer with expertise in **Node.js**, **NestJS**, **Express.js**, 
 ### 🚀 Softvence Agency (Dhaka, Bangladesh · On-site)
 
 #### Backend Developer (July 2025 – Present)
-- Developed scalable APIs with **NestJS**, **Node.js**, and **TypeScript**.
 - Building and maintaining scalable RESTful APIs using **NestJS** and **TypeScript**.
 - Working with **Drizzle ORM** and **Prisma** for efficient, type-safe database access.
 - Designing and managing relational schemas in **PostgreSQL**.
@@ -161,8 +160,6 @@ Full-Stack Developer with expertise in **Node.js**, **NestJS**, **Express.js**, 
 - Implemented real-time notifications using **Socket.IO** & **BullMQ**.
 - Participated in client meetings, gathering requirements, and providing technical guidance.
 - Collaborating with the frontend team to deliver production-ready features.
-- Implementing best practices for code quality, testing, and documentation.
-
 
 ### 🚀 Monster Studio (Chittagong, Bangladesh · On-site)
 
@@ -171,11 +168,9 @@ Full-Stack Developer with expertise in **Node.js**, **NestJS**, **Express.js**, 
 - Built reusable components and REST APIs using **React.js**, **Remix**, **Express.js**, **Node.js**, and **MongoDB**.
 - Managed **Nx monorepo** for modular, scalable development.
 - Led a small frontend team, improving collaboration and productivity.
-- Wrote unit/integration tests using **Jest**, **Vitest**, **MSW** & **Supertest**; performed load testing with **K6**.
 
 #### Quality Assurance Intern (Aug 2024 – Oct 2024)  
-- Wrote unit tests for frontend and backend using **Jest**, **Vitest**, **MSW**, and **Supertest**.
-- Used **K6** for backend **load testing** and performance profiling.
+- Wrote unit/integration tests using **Jest**, **Vitest**, **MSW** & **Supertest**; performed load testing with **K6**.
 - Helped improve code quality and reliability in a full-stack testing setup.
 
 ## �📊 My Stats
