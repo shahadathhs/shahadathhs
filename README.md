@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45)](https://github.com/shahadathhs)
 
-**Backend Developer · Microservices · DevOps · Node.js · NestJS**
+**Backend Developer · DevOps · Node.js · NestJS**
 
 </div>
 
