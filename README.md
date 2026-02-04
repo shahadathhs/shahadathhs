@@ -14,8 +14,7 @@
 
 # 👋 Hi, I'm Shahadath Hossen Sajib (Sajib)
 
-Backend Developer specializing in **Node.js, NestJS, and Express.js**, focused on building **scalable, secure, and production-ready backend systems**.  
-I enjoy designing robust APIs, working with databases, and solving real-world engineering problems.
+Backend Developer specializing in **Node.js, NestJS, and Express.js**, focused on building **scalable, secure, and production-ready backend systems**. I enjoy designing robust APIs, working with databases, and solving real-world engineering problems.
 
 ---
 
