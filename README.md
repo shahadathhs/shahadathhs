@@ -62,7 +62,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Category           | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -73,9 +73,9 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**Backend Developer — Softvence Agency** _(July 2025–Present)_
+**Backend Developer — Softvence Agency** _(July 2025–January 2026)_
 
 - Building and maintaining scalable RESTful APIs using **NestJS** and **TypeScript**.
 - Built WebSocket gateways and background workers using **BullMQ**.
@@ -97,7 +97,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ---
 
-### 📊 Stats & Activity
+## 📊 Stats & Activity
 
 <div align="center">
 
