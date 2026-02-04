@@ -2,25 +2,63 @@
 
 ![My Profile](./banner.png)
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45)](https://github.com/shahadathhs)
 
 **Backend Developer · DevOps · Node.js · NestJS**
-
+-->
 </div>
+
 
 ---
 
-### 👋 About Me
+# 👋 Hi, I'm Shahadath Hossen Sajib (Sajib)
 
-Backend Developer with expertise in **Node.js, NestJS, and Express.js**. Experienced in building scalable, secure, and high-performance backend systems, designing robust APIs, managing databases (**PostgreSQL, MongoDB, Redis**), and implementing real-time systems with **Socket.IO**. Skilled in **CI/CD, Docker, and AWS (EC2 & S3)**. Passionate about delivering maintainable, production-ready solutions and collaborating with cross-functional teams.
+Backend Developer specializing in **Node.js, NestJS, and Express.js**, focused on building **scalable, secure, and production-ready backend systems**.  
+I enjoy designing robust APIs, working with databases, and solving real-world engineering problems.
 
-- 👯 Open to learning and collaboration!
-- 🌱 Currently expanding my **Golang**, **C++**, and **DSA** skills.
-- 📫 Reach me at: [shahadathhossensajib732@gmail.com](mailto:shahadathhossensajib732@gmail.com)
-- 👨‍💻 Check out my [Portfolio](https://shahadathhs.vercel.app)
-- 📄 View my [Resume](https://drive.google.com/file/d/1E8-4vCZD0VW1QflvoRHTAJBedZRtUJ3f/view)
-- 💼 Connect on [LinkedIn](https://linkedin.com/in/shahadathhs)
-- 🧩 Solve with me on [LeetCode](https://leetcode.com/u/shahadathhs/)
+---
+
+## 🚀 About Me
+
+- 🧠 Strong in backend architecture, API design, and system scalability
+- 🛠️ Experienced with **PostgreSQL, MongoDB, Redis**
+- ⚡ Built real-time systems using **Socket.IO**
+- 🐳 Hands-on with **Docker, CI/CD**, and **AWS (EC2 & S3)**
+- 🌱 Currently learning **Golang**, **C++**, and **Data Structures & Algorithms**
+- 🤝 Open to collaboration and backend-focused opportunities
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+- 📝 **Medium**: https://medium.com/@shahadathhs  
+- 📰 **Substack**: https://substack.com/@shahadathhs  
+
+I write about backend engineering, system design, DevOps, and real-world project learnings.
+
+---
+
+## 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahadathhs.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahadathhs)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahadathhs)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@shahadathhs)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/shahadathhs/)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **shahadathhossensajib732@gmail.com**
+- 📄 Resume: https://drive.google.com/file/d/1E8-4vCZD0VW1QflvoRHTAJBedZRtUJ3f/view
+
+---
+
+## 💡 Philosophy
+
+> *"Clean architecture, clear intent, and systems that scale."*
 
 ---
 
