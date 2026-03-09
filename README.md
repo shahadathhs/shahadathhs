@@ -2,40 +2,27 @@
 
 ![My Profile](./banner.png)
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi+👋,+I'm+Shahadath+Hossen+Sajib&center=true&width=500&height=45)](https://github.com/shahadathhs)
-
-**Backend Developer · DevOps · Node.js · NestJS**
--->
 </div>
 
 
 ---
 
-# 👋 Hey there, I'm Shahadath Hossen Sajib (Sajib)
+## 👋 About Me
 
-Backend Developer specializing in building **scalable, secure, and high-performance systems** with a focus on **microservices**, **real-time features**, and **AI-powered solutions**.
+**Hey there, I'm Shahadath Hossen Sajib (Sajib)** — Backend Developer specializing in **scalable, secure, and high-performance systems** (microservices, real-time features, AI-powered solutions). I work with **Node.js**, **NestJS**, **Python**, **FastAPI**, and **TypeScript**.
 
----
-
-## 🚀 About Me
-
-I'm a Backend Developer with strong experience in building scalable, secure, and high-performance backend systems using **Node.js**, **NestJS**, **Python**, **FastAPI**, and **TypeScript**.
-
-- 🧠 Designing robust RESTful APIs, managing **PostgreSQL**, **MongoDB**, and **Redis**, and building real-time features, background processing, and AI-powered services
-- 🏗️ Specializing in **microservices architecture**—developing large, configurable backend systems that handle complex workflows and multi-module operations
+- 🧠 Designing robust RESTful APIs, managing **PostgreSQL**, **MongoDB**, **Redis**, and building real-time features, background processing, and AI-powered services
+- 🏗️ Specializing in **microservices architecture**—large, configurable backend systems with complex workflows and multi-module operations
 - ⚡ Experienced with **Socket.IO**, **BullMQ**, and real-time communication patterns
 - 🐳 Hands-on with **Docker**, **CI/CD** (GitHub Actions), **AWS (EC2 & S3)**, **Nginx**, and **Caddy**
 - 🤝 Open to collaboration and backend-focused opportunities
 
 ---
 
-## ✍️ Writing & Knowledge Sharing
+## 📫 Contact
 
-- 📝 **Medium**: https://medium.com/@shahadathhs  
-- 📰 **Substack**: https://substack.com/@shahadathhs  
-
-I write about backend engineering, system design, DevOps, and real-world project learnings.
+- 📧 Email: **shahadathhossensajib732@gmail.com**
+- 📄 Resume: https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view
 
 ---
 
@@ -47,18 +34,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@shahadathhs)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/shahadathhs/)
 
----
-
-## 📫 Contact
-
-- 📧 Email: **shahadathhossensajib732@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view
-
----
-
-## 💡 Philosophy
-
-> *"Clean architecture, clear intent, and systems that scale."*
+I write about backend engineering, system design, DevOps, and real-world project learnings.
 
 ---
 
@@ -77,38 +53,19 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 **Back End Developer — Digital Pylot** _(Feb 2026 – Present)_ · Dhaka, Bangladesh · On-site
 
-- Contributing to the backend of a large-scale, configurable microservices system.
-- Focused on building scalable services, managing complex workflows, and integrating AI and communication features.
-- Ensuring robust, secure, and efficient operations across multiple modules while collaborating with cross-functional teams.
+- Contributing to a large-scale microservices backend—building scalable services, complex workflows, and AI/communication integrations across multiple modules.
 
 **Back End Developer — Softvence Agency** _(Jul 2025 – Feb 2026)_ · Dhaka, Bangladesh · On-site
 
-- Built real-time logistics and trip tracking systems (Uber-style) with dynamic route updates, multi-party coordination, and weather-aware routing.
-- Engineered platform-level payment systems, supporting subscriptions, promo codes, and automated payouts.
-- Developed multi-source, high-volume data platforms, normalizing external datasets with user-generated content.
-- Built dynamic HR and scheduling workflows, including payroll automation, timezone-aware operations, and real-time communication.
-- Implemented location-aware services, real-time updates, advanced search, and map integrations.
-- Built AI-powered automation, including candidate evaluation, interview question generation, and analytics.
-- Delivered interactive engagement features such as voting, gamification, and messaging.
-- Designed and optimized PostgreSQL schemas and queries using Prisma/Drizzle ORM.
-- Deployed and maintained AWS infrastructure (EC2 & S3) with monitoring and performance optimization.
-
-**Backend Engineering Transition — Career Break** _(May 2025 – Jul 2025)_ · Chattogram, Bangladesh
-
-- Focused on backend architecture using Node.js and NestJS.
-- Strengthened knowledge of relational database design and querying with PostgreSQL.
-- Built experimental backend services to practice authentication flows, API design, and scalable application structure.
-- Explored modern backend tooling, including Prisma ORM, OAuth-based authentication, and real-time communication patterns.
+- Built real-time logistics and trip tracking (Uber-style) with dynamic routing, multi-party coordination, weather-aware routing, and map integrations.
+- Engineered platform-level payment systems (subscriptions, payouts) and HR/scheduling workflows (payroll automation, timezone-aware operations).
+- Developed high-volume data platforms and AI-powered automation (candidate evaluation, interview generation, analytics).
+- Delivered interactive engagement features; designed PostgreSQL schemas with Prisma/Drizzle; deployed and maintained AWS infrastructure.
 
 **Web Developer — Monster Studio** _(Aug 2024 – Apr 2025)_ · Chattogram, Bangladesh · On-site
 
-- Contributed to the development of 20+ production websites within a large-scale monorepo architecture.
-- Delivered responsive and SEO-optimized web applications, improving performance and maintainability.
-- Designed and implemented an AI-powered document assistant for context-aware responses.
-- Developed internal tools, including a custom CMS and creator utilities, integrating external APIs like YouTube.
-- Helped scale and maintain a modular monorepo architecture, enabling faster development.
-- Led a frontend team through code reviews, collaboration, and task coordination.
-- Strengthened product reliability by contributing unit tests and performance testing initiatives.
+- Contributed to 20+ production websites in a monorepo; led frontend team; built AI-powered document assistant, custom CMS, and creator tools.
+- Strengthened product reliability through unit tests and performance testing.
 
 ---
 
@@ -121,7 +78,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl) -->
 
 </div>
 
