@@ -75,14 +75,14 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->0<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
-| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
+| Repositories | <!--TOTAL_REPOS-->69<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->7<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->4<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->45<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->61<!--/TOTAL_FOLLOWERS--> |
 | Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 16:47 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 16:51 UTC<!--/LAST_UPDATED--></sub>
 
 ### 📈 [View Full Metrics Dashboard →](https://shahadathhs.github.io/shahadathhs/)
 
