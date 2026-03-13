@@ -92,7 +92,6 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
-
 </div>
 
 ---
