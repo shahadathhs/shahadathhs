@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -47,7 +48,7 @@
             position: absolute;
             width: 500px;
             height: 500px;
-            background: radial-gradient(circle, rgba(16, 185, 129, 0.15) 0%, rgba(0,0,0,0) 70%);
+            background: radial-gradient(circle, rgba(16, 185, 129, 0.15) 0%, rgba(0, 0, 0, 0) 70%);
             border-radius: 50%;
             filter: blur(80px);
             animation: move 20s infinite alternate;
@@ -56,13 +57,18 @@
         .blob-2 {
             top: 20%;
             right: -10%;
-            background: radial-gradient(circle, rgba(99, 102, 241, 0.15) 0%, rgba(0,0,0,0) 70%);
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.15) 0%, rgba(0, 0, 0, 0) 70%);
             animation-delay: -5s;
         }
 
         @keyframes move {
-            from { transform: translate(-10%, -10%); }
-            to { transform: translate(10%, 10%); }
+            from {
+                transform: translate(-10%, -10%);
+            }
+
+            to {
+                transform: translate(10%, 10%);
+            }
         }
 
         .container {
@@ -85,7 +91,7 @@
         .glass-card:hover {
             border-color: rgba(16, 185, 129, 0.3);
             transform: translateY(-5px);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
         }
 
         /* Hero Section */
@@ -270,7 +276,7 @@
         }
 
         .tech-card {
-            background: rgba(255,255,255,0.03);
+            background: rgba(255, 255, 255, 0.03);
             border: 1px solid var(--glass-border);
             padding: 1.5rem;
             border-radius: 16px;
@@ -303,11 +309,18 @@
         }
 
         @media (max-width: 768px) {
-            .glass-card { padding: 1.5rem; }
-            .btn { width: 100%; justify-content: center; }
+            .glass-card {
+                padding: 1.5rem;
+            }
+
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
         }
     </style>
 </head>
+
 <body>
     <div class="ambient-box">
         <div class="blob"></div>
@@ -320,7 +333,8 @@
             <div class="hero-badge">Backend System Architect</div>
             <h1>I build robust, high-performance backend systems.</h1>
             <p class="hero-desc">
-                Hey there, I'm <strong>Shahadath Hossen Sajib</strong> — Backend Developer specializing in scalable microservices, real-time features, and secure AI-powered solutions.
+                Hey there, I'm <strong>Shahadath Hossen Sajib</strong> — Backend Developer specializing in scalable
+                microservices, real-time features, and secure AI-powered solutions.
             </p>
             <div class="social-links">
                 <a href="#about" class="btn btn-primary">Discover My Work</a>
@@ -334,7 +348,9 @@
             <h2 class="sec-title">👋 About Me</h2>
             <div class="glass-card">
                 <p style="font-size: 1.1rem; color: var(--text-dim); margin-bottom: 2rem;">
-                    Designing robust RESTful APIs, managing PostgreSQL, MongoDB, Redis, and building real-time features with specialized focus on <strong>microservices architecture</strong>. I deliver large, configurable backend systems with complex workflows.
+                    Designing robust RESTful APIs, managing PostgreSQL, MongoDB, Redis, and building real-time features
+                    with specialized focus on <strong>microservices architecture</strong>. I deliver large, configurable
+                    backend systems with complex workflows.
                 </p>
                 <div style="display: flex; gap: 3rem; flex-wrap: wrap;">
                     <div>
@@ -353,7 +369,7 @@
         <section id="experience" data-reveal>
             <h2 class="sec-title">💼 Experience</h2>
             <div class="timeline">
-                
+
                 <div class="exp-item">
                     <div class="exp-head">
                         <div>
@@ -422,8 +438,12 @@
         <section id="activity" data-reveal>
             <h2 class="sec-title">📊 GitHub Activity</h2>
             <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl" style="width: 100%; border-radius: 12px; border: 1px solid var(--glass-border);" alt="Activity Graph">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl"
+                    style="width: 100%; border-radius: 12px; border: 1px solid var(--glass-border);"
+                    alt="Activity Graph">
             </div>
+            <h1>📊 Visual Profile</h1>
+            <p class="subtitle">Interactive overview of my backend expertise & contribution milestones</p>
         </section>
 
     </div>
@@ -431,8 +451,11 @@
     <footer>
         <div class="container">
             <p>Designed with excellence for Shahadath Hossen Sajib</p>
-            <p style="margin-top: 1.5rem;">
-                <a href="https://github.com/shahadathhs/shahadathhs/blob/main/README.md" target="_blank" class="btn btn-outline" style="display: inline-flex; width: auto; font-size: 0.8rem;">View Raw GitHub Profile</a>
+            <p style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                <a href="https://shahadathhs.vercel.app" target="_blank" class="btn btn-outline"
+                    style="display: inline-flex; width: auto; font-size: 0.8rem;">Live Portfolio</a>
+                <a href="https://github.com/shahadathhs" target="_blank" class="btn btn-outline"
+                    style="display: inline-flex; width: auto; font-size: 0.8rem;">GitHub Profile</a>
             </p>
             <p style="margin-top: 1rem; font-size: 0.8rem;">&copy; 2026 sajib portfolio</p>
         </div>
@@ -455,4 +478,5 @@
         reveal(); // Initial check
     </script>
 </body>
+
 </html>
