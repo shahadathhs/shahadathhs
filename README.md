@@ -73,12 +73,29 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 <div align="center">
 
+| Metric | Count |
+|--------|-------|
+| Repositories | <!--TOTAL_REPOS-->0<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
+
+<sub>Last updated: <!--LAST_UPDATED-->-<!--/LAST_UPDATED--></sub>
+
+### 📈 [View Full Metrics Dashboard →](https://shahadathhs.github.io/shahadathhs/)
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shahadathhs?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shahadathhs/)
 
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
 
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl) -->
+
+### Top Repositories (by views, last 14 days)
+<!--TOP_REPOS_START-->
+<!--TOP_REPOS_END-->
 
 </div>
 
