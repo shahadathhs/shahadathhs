@@ -69,9 +69,9 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
+
+### 📊 GitHub Analytics
 
 <!--STATS_TABLE_START-->
 | Usage Metric | Count | &nbsp;&nbsp;&nbsp;&nbsp; | Repository | Views |
@@ -92,6 +92,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
+
 </div>
 
 ---
