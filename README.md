@@ -73,6 +73,11 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ### 📊 GitHub Analytics
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shahadathhs?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shahadathhs/)
+
+![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
+![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
+
 <!--STATS_TABLE_START-->
 | Usage Metric | Count | &nbsp;&nbsp;&nbsp;&nbsp; | Repository | Views |
 | :--- | :--- | :---: | :--- | :--- |
@@ -85,14 +90,9 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 <!--STATS_TABLE_END-->
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 17:01 UTC<!--/LAST_UPDATED--></sub>
-
 ### 📈 [View Full Metrics Dashboard →](https://shahadathhs.github.io/shahadathhs/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shahadathhs?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shahadathhs/)
-
-![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
-![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 17:01 UTC<!--/LAST_UPDATED--></sub>
 
 </div>
 
