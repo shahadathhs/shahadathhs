@@ -84,36 +84,36 @@ jobs:
                 --jq '.data.user' 2>/dev/null || echo "{}")
               response=$(echo "$full_response" | jq '.repositories // {}')
               # Get followers only on first page
-              total_followers=$(echo "$full_response" | jq '.followers.totalCount // 0')
-            else
-              response=$(gh api graphql \
-                -f query="$QUERY" \
-                -f username="$USERNAME" \
-                -f cursor="$cursor" \
-                --jq '.data.user.repositories' 2>/dev/null || echo "{}")
-            fi
+            total_followers=$(echo "$full_response" | jq '.followers.totalCount // 0' | tail -n 1 | tr -d '[:space:]')
+          else
+            response=$(gh api graphql \
+              -f query="$QUERY" \
+              -f username="$USERNAME" \
+              -f cursor="$cursor" \
+              --jq '.data.user.repositories' 2>/dev/null || echo "{}")
+          fi
 
-            # Parse response
-            has_next=$(echo "$response" | jq -r '.pageInfo.hasNextPage // false')
-            cursor=$(echo "$response" | jq -r '.pageInfo.endCursor // "null"')
+          # Parse response
+          has_next=$(echo "$response" | jq -r '.pageInfo.hasNextPage // false' | tail -n 1 | tr -d '[:space:]')
+          cursor=$(echo "$response" | jq -r '.pageInfo.endCursor // "null"' | tail -n 1 | tr -d '[:space:]')
 
-            # Set total_repos only once (same value on all pages)
-            if [ "$page" -eq 1 ]; then
-              total_repos=$(echo "$response" | jq '.totalCount // 0')
-            fi
+          # Set total_repos only once (same value on all pages)
+          if [ "$page" -eq 1 ]; then
+            total_repos=$(echo "$response" | jq '.totalCount // 0' | tail -n 1 | tr -d '[:space:]')
+          fi
 
-            # Sum metrics from this page with null/empty safety
-            page_stars=$(echo "$response" | jq '[.nodes[]?.stargazerCount // 0] | add // 0')
-            page_forks=$(echo "$response" | jq '[.nodes[]?.forkCount // 0] | add // 0')
-            page_watchers=$(echo "$response" | jq '[.nodes[]?.watchers?.totalCount // 0] | add // 0')
+          # Sum metrics from this page with null/empty safety
+          page_stars=$(echo "$response" | jq '[.nodes[]?.stargazerCount // 0] | add // 0' | tail -n 1 | tr -d '[:space:]')
+          page_forks=$(echo "$response" | jq '[.nodes[]?.forkCount // 0] | add // 0' | tail -n 1 | tr -d '[:space:]')
+          page_watchers=$(echo "$response" | jq '[.nodes[]?.watchers?.totalCount // 0] | add // 0' | tail -n 1 | tr -d '[:space:]')
 
-            # Ensure values are numeric (default to 0 if empty or null)
-            page_stars=${page_stars:-0}
-            page_forks=${page_forks:-0}
-            page_watchers=${page_watchers:-0}
-            [[ "$page_stars" =~ ^[0-9]+$ ]] || page_stars=0
-            [[ "$page_forks" =~ ^[0-9]+$ ]] || page_forks=0
-            [[ "$page_watchers" =~ ^[0-9]+$ ]] || page_watchers=0
+          # Ensure values are numeric (default to 0 if empty or null)
+          page_stars=${page_stars:-0}
+          page_forks=${page_forks:-0}
+          page_watchers=${page_watchers:-0}
+          [[ "$page_stars" =~ ^[0-9]+$ ]] || page_stars=0
+          [[ "$page_forks" =~ ^[0-9]+$ ]] || page_forks=0
+          [[ "$page_watchers" =~ ^[0-9]+$ ]] || page_watchers=0
 
             total_stars=$((total_stars + page_stars))
             total_forks=$((total_forks + page_forks))
@@ -161,7 +161,9 @@ jobs:
             [ -z "$repos" ] && break
 
             for repo in $repos; do
-              views=$(gh api "repos/$USERNAME/$repo/traffic/views" --jq '.count // 0' 2>/dev/null || echo "0")
+              views=$(gh api "repos/$USERNAME/$repo/traffic/views" --jq '.count // 0' 2>/dev/null | tail -n 1 | tr -d '[:space:]')
+              # Default to 0 if empty
+              views=${views:-0}
               # Ensure views is numeric
               [[ "$views" =~ ^[0-9]+$ ]] || views=0
               total_views=$((total_views + views))
