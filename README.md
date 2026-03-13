@@ -69,20 +69,22 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ---
 
-## 📊 Stats & Activity
+### 📊 GitHub Analytics
 
 <div align="center">
 
-| Metric | Count |
-|--------|-------|
-| Repositories | <!--TOTAL_REPOS-->0<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
-| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
+<!--STATS_TABLE_START-->
+| Usage Metric | Count | &nbsp;&nbsp;&nbsp;&nbsp; | Repository | Views |
+| :--- | :--- | :---: | :--- | :--- |
+| **Repositories** | 69 | | - | 0 |
+| **Stars** | 7 | | - | 0 |
+| **Forks** | 4 | | - | 0 |
+| **Watchers** | 45 | | - | 0 |
+| **Followers** | 61 | | - | 0 |
+| **Views (14d)** | 0 | | - | 0 |
+<!--STATS_TABLE_END-->
 
-<sub>Last updated: <!--LAST_UPDATED-->-<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 16:51 UTC<!--/LAST_UPDATED--></sub>
 
 ### 📈 [View Full Metrics Dashboard →](https://shahadathhs.github.io/shahadathhs/)
 
@@ -90,12 +92,6 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
-
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl) -->
-
-### Top Repositories (by views, last 14 days)
-<!--TOP_REPOS_START-->
-<!--TOP_REPOS_END-->
 
 </div>
 
