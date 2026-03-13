@@ -71,28 +71,14 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 <div align="center">
 
-### 📊 GitHub Analytics
+## 📊 Stats & Activity
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shahadathhs?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shahadathhs/)
 
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
 
-<!--STATS_TABLE_START-->
-| Usage Metric | Count | &nbsp;&nbsp;&nbsp;&nbsp; | Repository | Views |
-| :--- | :--- | :---: | :--- | :--- |
-| **Repositories** | 69 | |  |  |
-| **Stars** | 7 | | | |
-| **Forks** | 4 | | | |
-| **Watchers** | 45 | | | |
-| **Followers** | 61 | | | |
-| **Views (14d)** | 0 | | | |
-
-<!--STATS_TABLE_END-->
-
-### 📈 [View Full Metrics Dashboard →](https://shahadathhs.github.io/shahadathhs/)
-
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 17:01 UTC<!--/LAST_UPDATED--></sub>
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl) -->
 
 </div>
 
@@ -103,3 +89,11 @@ I write about backend engineering, system design, DevOps, and real-world project
     <img src="https://img.shields.io/badge/Contact%20Me-shahadathhossensajib732%40gmail.com-blue?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
+---
+
+<div align="center">
+
+### 🚀 [Explore My Premium Developer Dashboard →](https://shahadathhs.github.io/shahadathhs/)
+
+</div>
