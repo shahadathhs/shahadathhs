@@ -82,7 +82,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 | Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
 | Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->-<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 16:47 UTC<!--/LAST_UPDATED--></sub>
 
 ### 📈 [View Full Metrics Dashboard →](https://shahadathhs.github.io/shahadathhs/)
 
@@ -95,6 +95,9 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 ### Top Repositories (by views, last 14 days)
 <!--TOP_REPOS_START-->
+| Repository | Views |
+|------------|-------|
+
 <!--TOP_REPOS_END-->
 
 </div>
