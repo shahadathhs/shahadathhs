@@ -78,25 +78,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
 
-<<<<<<< HEAD
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl) -->
-=======
-<!--STATS_TABLE_START-->
-| Usage Metric | Count | &nbsp;&nbsp;&nbsp;&nbsp; | Repository | Views |
-| :--- | :--- | :---: | :--- | :--- |
-| **Repositories** | 69 | |  |  |
-| **Stars** | 7 | | | |
-| **Forks** | 4 | | | |
-| **Watchers** | 45 | | | |
-| **Followers** | 61 | | | |
-| **Views (14d)** | 0 | | | |
-
-<!--STATS_TABLE_END-->
-
-### 📈 [View Full Metrics Dashboard →](https://shahadathhs.github.io/shahadathhs/)
-
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 17:12 UTC<!--/LAST_UPDATED--></sub>
->>>>>>> 4aa86359e5a1e5ed6c6c8eb3812dba0ee2f6508d
 
 </div>
 
