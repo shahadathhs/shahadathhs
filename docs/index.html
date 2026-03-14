@@ -268,24 +268,170 @@
             color: var(--accent-primary);
         }
 
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .stat-item {
+            text-align: left;
+        }
+
+        .stat-number {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 0.3rem;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--text-dim);
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1.5rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Contact Links */
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+
+        .contact-link {
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            padding: 1rem 1.5rem;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            text-decoration: none;
+            color: var(--text-dim);
+            transition: all 0.3s ease;
+        }
+
+        .contact-link:hover {
+            background: rgba(16, 185, 129, 0.1);
+            border-color: var(--accent-primary);
+            color: var(--text-main);
+            transform: translateY(-3px);
+        }
+
+        .contact-icon {
+            font-size: 1.3rem;
+        }
+
+        .contact-text {
+            font-weight: 500;
+        }
+
+        .email-display {
+            margin-top: 2rem;
+            padding: 1.5rem;
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .email-text {
+            color: var(--accent-primary);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-family: 'Monaco', 'Courier New', monospace;
+        }
+
+        .copy-btn {
+            padding: 0.6rem 1.2rem;
+            background: var(--accent-primary);
+            color: #000;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .copy-btn:hover {
+            background: #059669;
+            transform: scale(1.05);
+        }
+
+        .copy-btn.copied {
+            background: #22c55e;
+        }
+
+        @media (max-width: 600px) {
+            .email-display {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .copy-btn {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
         /* Tech Stack */
+        .tech-category {
+            margin-bottom: 3rem;
+        }
+
+        .tech-category-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--accent-primary);
+            margin-bottom: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
         .tech-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-            gap: 1.5rem;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 1rem;
         }
 
         .tech-card {
             background: rgba(255, 255, 255, 0.03);
             border: 1px solid var(--glass-border);
-            padding: 1.5rem;
-            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            border-radius: 12px;
             text-align: center;
+            font-size: 0.95rem;
+            color: var(--text-dim);
+            transition: all 0.3s ease;
         }
 
-        .tech-card img {
-            height: 40px;
-            margin-bottom: 1rem;
+        .tech-card:hover {
+            background: rgba(16, 185, 129, 0.1);
+            border-color: var(--accent-primary);
+            color: var(--text-main);
         }
 
         /* Footer */
@@ -337,7 +483,7 @@
                 microservices, real-time features, and secure AI-powered solutions.
             </p>
             <div class="social-links">
-                <a href="#about" class="btn btn-primary">Discover My Work</a>
+                <a href="https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view" target="_blank" class="btn btn-primary">Resume →</a>
                 <a href="https://linkedin.com/in/shahadathhs" target="_blank" class="btn btn-outline">LinkedIn</a>
                 <a href="https://github.com/shahadathhs" target="_blank" class="btn btn-outline">GitHub</a>
             </div>
@@ -348,18 +494,35 @@
             <h2 class="sec-title">👋 About Me</h2>
             <div class="glass-card">
                 <p style="font-size: 1.1rem; color: var(--text-dim); margin-bottom: 2rem;">
-                    Designing robust RESTful APIs, managing PostgreSQL, MongoDB, Redis, and building real-time features
-                    with specialized focus on <strong>microservices architecture</strong>. I deliver large, configurable
-                    backend systems with complex workflows.
+                    I design <strong>robust RESTful APIs</strong>, manage <strong>PostgreSQL</strong>, <strong>MongoDB</strong>,
+                    and <strong>Redis</strong> databases, while building real-time features with specialized focus on
+                    <strong>microservices architecture</strong>. I deliver large, configurable backend systems with
+                    complex workflows and multi-module operations.
                 </p>
-                <div style="display: flex; gap: 3rem; flex-wrap: wrap;">
-                    <div>
-                        <div style="color: var(--accent-primary); font-weight: 700; font-size: 1.8rem;">69+</div>
-                        <div style="color: var(--text-dim); font-size: 0.9rem;">Public Repositories</div>
+                <ul class="exp-list" style="margin-bottom: 2rem;">
+                    <li>Experienced with <strong>Socket.IO</strong>, <strong>BullMQ</strong>, and real-time communication patterns</li>
+                    <li>Hands-on with <strong>Docker</strong>, <strong>CI/CD</strong> (GitHub Actions), <strong>AWS (EC2 & S3)</strong>,
+                        <strong>Nginx</strong>, and <strong>Caddy</strong></li>
+                    <li>Built real-time logistics systems (Uber-style), payment platforms, and AI-powered automation</li>
+                    <li>Contributed to 20+ production websites and led frontend teams in monorepo environments</li>
+                    <li>Open to collaboration and backend-focused opportunities</li>
+                </ul>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-number" style="color: var(--accent-primary);">69+</div>
+                        <div class="stat-label">Public Repositories</div>
                     </div>
-                    <div>
-                        <div style="color: var(--accent-secondary); font-weight: 700; font-size: 1.8rem;">CI/CD</div>
-                        <div style="color: var(--text-dim); font-size: 0.9rem;">Actions Specialized</div>
+                    <div class="stat-item">
+                        <div class="stat-number" style="color: var(--accent-secondary);">2+</div>
+                        <div class="stat-label">Years Experience</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number" style="color: var(--accent-primary);">CI/CD</div>
+                        <div class="stat-label">Actions Specialized</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number" style="color: var(--accent-secondary);">Microservices</div>
+                        <div class="stat-label">Architecture Expert</div>
                     </div>
                 </div>
             </div>
@@ -422,15 +585,49 @@
         <!-- Tech Stack -->
         <section id="tech" data-reveal>
             <h2 class="sec-title">🛠️ Tech Stack</h2>
-            <div class="tech-grid">
-                <div class="tech-card">Node.js / Express</div>
-                <div class="tech-card">NestJS</div>
-                <div class="tech-card">Python / FastAPI</div>
-                <div class="tech-card">PostgreSQL / MongoDB</div>
-                <div class="tech-card">Redis / BullMQ</div>
-                <div class="tech-card">Docker / AWS</div>
-                <div class="tech-card">Socket.io</div>
-                <div class="tech-card">Prisma / Drizzle</div>
+
+            <div class="tech-category">
+                <div class="tech-category-title">⚙️ Backend</div>
+                <div class="tech-grid">
+                    <div class="tech-card">Node.js</div>
+                    <div class="tech-card">Express</div>
+                    <div class="tech-card">NestJS</div>
+                    <div class="tech-card">Python</div>
+                    <div class="tech-card">FastAPI</div>
+                    <div class="tech-card">TypeScript</div>
+                </div>
+            </div>
+
+            <div class="tech-category">
+                <div class="tech-category-title">🗄️ Databases</div>
+                <div class="tech-grid">
+                    <div class="tech-card">PostgreSQL</div>
+                    <div class="tech-card">MongoDB</div>
+                    <div class="tech-card">Redis</div>
+                    <div class="tech-card">Prisma</div>
+                    <div class="tech-card">Mongoose</div>
+                    <div class="tech-card">Drizzle</div>
+                </div>
+            </div>
+
+            <div class="tech-category">
+                <div class="tech-category-title">⚡ Real-time</div>
+                <div class="tech-grid">
+                    <div class="tech-card">Socket.io</div>
+                    <div class="tech-card">WebRTC</div>
+                    <div class="tech-card">BullMQ</div>
+                </div>
+            </div>
+
+            <div class="tech-category">
+                <div class="tech-category-title">☁️ Cloud & DevOps</div>
+                <div class="tech-grid">
+                    <div class="tech-card">Docker</div>
+                    <div class="tech-card">AWS</div>
+                    <div class="tech-card">GitHub Actions</div>
+                    <div class="tech-card">Nginx</div>
+                    <div class="tech-card">Caddy</div>
+                </div>
             </div>
         </section>
 
@@ -441,6 +638,57 @@
                 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl"
                     style="width: 100%; border-radius: 12px; border: 1px solid var(--glass-border);"
                     alt="Activity Graph">
+            </div>
+        </section>
+
+        <!-- Contact & Links -->
+        <section id="contact" data-reveal>
+            <h2 class="sec-title">📫 Get In Touch</h2>
+            <div class="glass-card">
+                <p style="font-size: 1.1rem; color: var(--text-dim); margin-bottom: 1.5rem;">
+                    Feel free to reach out for collaboration, backend-focused opportunities, or just to say hello!
+                </p>
+                <div class="contact-grid">
+                    <a href="mailto:shahadathhossensajib732@gmail.com" class="contact-link">
+                        <span class="contact-icon">📧</span>
+                        <span class="contact-text">Email</span>
+                    </a>
+                    <a href="https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view" target="_blank" class="contact-link">
+                        <span class="contact-icon">📄</span>
+                        <span class="contact-text">Resume</span>
+                    </a>
+                    <a href="https://shahadathhs.vercel.app" target="_blank" class="contact-link">
+                        <span class="contact-icon">🌐</span>
+                        <span class="contact-text">Portfolio</span>
+                    </a>
+                    <a href="https://linkedin.com/in/shahadathhs" target="_blank" class="contact-link">
+                        <span class="contact-icon">💼</span>
+                        <span class="contact-text">LinkedIn</span>
+                    </a>
+                    <a href="https://github.com/shahadathhs" target="_blank" class="contact-link">
+                        <span class="contact-icon">🐙</span>
+                        <span class="contact-text">GitHub</span>
+                    </a>
+                    <a href="https://medium.com/@shahadathhs" target="_blank" class="contact-link">
+                        <span class="contact-icon">✍️</span>
+                        <span class="contact-text">Medium</span>
+                    </a>
+                    <a href="https://substack.com/@shahadathhs" target="_blank" class="contact-link">
+                        <span class="contact-icon">📰</span>
+                        <span class="contact-text">Substack</span>
+                    </a>
+                    <a href="https://leetcode.com/u/shahadathhs/" target="_blank" class="contact-link">
+                        <span class="contact-icon">🧩</span>
+                        <span class="contact-text">LeetCode</span>
+                    </a>
+                </div>
+                <div class="email-display">
+                    <span class="email-text">shahadathhossensajib732@gmail.com</span>
+                    <button class="copy-btn" onclick="copyEmail()">
+                        <span id="copy-icon">📋</span>
+                        <span id="copy-text">Copy Email</span>
+                    </button>
+                </div>
             </div>
         </section>
 
@@ -474,6 +722,28 @@
         }
         window.addEventListener('scroll', reveal);
         reveal(); // Initial check
+
+        // Copy email function
+        function copyEmail() {
+            const email = 'shahadathhossensajib732@gmail.com';
+            navigator.clipboard.writeText(email).then(() => {
+                const copyBtn = document.querySelector('.copy-btn');
+                const copyText = document.getElementById('copy-text');
+                const copyIcon = document.getElementById('copy-icon');
+
+                copyBtn.classList.add('copied');
+                copyText.textContent = 'Copied!';
+                copyIcon.textContent = '✅';
+
+                setTimeout(() => {
+                    copyBtn.classList.remove('copied');
+                    copyText.textContent = 'Copy Email';
+                    copyIcon.textContent = '📋';
+                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy email: ', err);
+            });
+        }
     </script>
 </body>
 
