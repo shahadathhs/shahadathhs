@@ -532,6 +532,157 @@
             to { transform: rotate(360deg); }
         }
 
+        /* GitHub Dashboard */
+        .github-dashboard {
+            display: grid;
+            gap: 2rem;
+        }
+
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .impact-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            padding: 1rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .impact-card:hover {
+            border-color: var(--accent-primary);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        }
+
+        .impact-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.3rem;
+        }
+
+        .impact-value {
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: var(--accent-primary);
+            margin-bottom: 0.2rem;
+        }
+
+        .impact-label {
+            font-size: 0.75rem;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Languages Breakdown */
+        .languages-section {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 1.2rem;
+        }
+
+        .languages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 0.8rem;
+        }
+
+        .language-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 10px;
+            padding: 0.8rem;
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            transition: all 0.3s ease;
+        }
+
+        .language-card:hover {
+            border-color: var(--accent-primary);
+            transform: translateY(-2px);
+        }
+
+        .lang-dot-sm {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+
+        .lang-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .lang-name {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-main);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .lang-percent {
+            font-size: 0.75rem;
+            color: var(--accent-primary);
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .stats-row {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .languages-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .stats-row {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .impact-card {
+                padding: 0.8rem;
+            }
+
+            .impact-icon {
+                font-size: 1.3rem;
+            }
+
+            .impact-value {
+                font-size: 1.3rem;
+            }
+
+            .impact-label {
+                font-size: 0.7rem;
+            }
+
+            .languages-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
         /* Tech Stack */
         .tech-category {
             margin-bottom: 3rem;
@@ -769,11 +920,39 @@
 
         <!-- GitHub Integration -->
         <section id="activity" data-reveal>
-            <h2 class="sec-title">📊 GitHub Activity</h2>
-            <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl"
-                    style="width: 100%; border-radius: 12px; border: 1px solid var(--glass-border);"
-                    alt="Activity Graph">
+            <h2 class="sec-title">📊 Developer Impact Dashboard</h2>
+            <div class="github-dashboard">
+                <!-- Impact Stats -->
+                <div class="stats-row">
+                    <div class="impact-card">
+                        <div class="impact-icon">⚡</div>
+                        <div class="impact-value" id="total-contributions">Loading...</div>
+                        <div class="impact-label">Public Repos</div>
+                    </div>
+                    <div class="impact-card">
+                        <div class="impact-icon">👥</div>
+                        <div class="impact-value" id="followers">Loading...</div>
+                        <div class="impact-label">Followers</div>
+                    </div>
+                    <div class="impact-card">
+                        <div class="impact-icon">📅</div>
+                        <div class="impact-value" id="years-active">Loading...</div>
+                        <div class="impact-label">Years Active</div>
+                    </div>
+                    <div class="impact-card">
+                        <div class="impact-icon">⭐</div>
+                        <div class="impact-value" id="total-stars">Loading...</div>
+                        <div class="impact-label">Total Stars</div>
+                    </div>
+                </div>
+
+                <!-- Languages Breakdown -->
+                <div class="languages-section">
+                    <h3 style="font-size: 1rem; margin-bottom: 1rem; color: var(--text-main);">🌐 Top Languages</h3>
+                    <div id="languages-breakdown" class="languages-grid">
+                        <div style="grid-column: 1 / -1; text-align: center; color: var(--text-dim);">Loading languages...</div>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -1101,7 +1280,112 @@
         }
 
         // Load repositories when page loads
-        document.addEventListener('DOMContentLoaded', fetchSpecificRepos);
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchSpecificRepos();
+            fetchGitHubStats();
+        });
+
+        // Fetch GitHub stats
+        async function fetchGitHubStats() {
+            const username = 'shahadathhs';
+
+            try {
+                // Fetch user profile and repos
+                const [userResponse, reposResponse] = await Promise.all([
+                    fetch(`https://api.github.com/users/${username}`),
+                    fetch(`https://api.github.com/users/${username}/repos?per_page=100&sort=updated`)
+                ]);
+
+                if (!userResponse.ok || !reposResponse.ok) {
+                    throw new Error('Failed to fetch GitHub stats');
+                }
+
+                const userData = await userResponse.json();
+                const reposData = await reposResponse.json();
+
+                // Calculate stats
+                const totalStars = reposData.reduce((sum, repo) => sum + repo.stargazers_count, 0);
+                const joinedYear = new Date(userData.created_at).getFullYear();
+                const currentYear = new Date().getFullYear();
+                const yearsActive = currentYear - joinedYear;
+
+                // Calculate language distribution
+                const languageStats = {};
+                reposData.forEach(repo => {
+                    if (repo.language) {
+                        languageStats[repo.language] = (languageStats[repo.language] || 0) + 1;
+                    }
+                });
+
+                const totalReposWithLang = Object.values(languageStats).reduce((a, b) => a + b, 0);
+                const languagesWithPercent = Object.entries(languageStats)
+                    .map(([lang, count]) => ({
+                        name: lang,
+                        count,
+                        percentage: Math.round((count / totalReposWithLang) * 100)
+                    }))
+                    .sort((a, b) => b.count - a.count)
+                    .slice(0, 5); // Top 5 languages
+
+                // Update UI
+                updateStat('total-contributions', userData.public_repos, 'repos');
+                updateStat('followers', formatNumber(userData.followers), 'followers');
+                updateStat('years-active', yearsActive + '+', 'years');
+                updateStat('total-stars', formatNumber(totalStars), 'stars');
+
+                // Render languages breakdown
+                renderLanguagesBreakdown(languagesWithPercent);
+
+            } catch (error) {
+                console.error('Error fetching GitHub stats:', error);
+                // Set fallback values
+                updateStat('total-contributions', '69+', 'repos');
+                updateStat('followers', '50+', 'followers');
+                updateStat('years-active', '2+', 'years');
+                updateStat('total-stars', '100+', 'stars');
+
+                // Fallback languages
+                renderLanguagesBreakdown([
+                    { name: 'TypeScript', percentage: 35 },
+                    { name: 'JavaScript', percentage: 30 },
+                    { name: 'Python', percentage: 20 },
+                    { name: 'Dockerfile', percentage: 10 },
+                    { name: 'HTML', percentage: 5 }
+                ]);
+            }
+        }
+
+        function renderLanguagesBreakdown(languages) {
+            const container = document.getElementById('languages-breakdown');
+
+            if (!languages || languages.length === 0) {
+                container.innerHTML = '<div style="grid-column: 1 / -1; text-align: center; color: var(--text-dim);">No language data available</div>';
+                return;
+            }
+
+            container.innerHTML = languages.map(lang => {
+                const color = getLanguageColor(lang.name);
+                return `
+                    <div class="language-card">
+                        <span class="lang-dot-sm" style="background-color: ${color}"></span>
+                        <div class="lang-info">
+                            <div class="lang-name">${lang.name}</div>
+                            <div class="lang-percent">${lang.percentage}%</div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function updateStat(elementId, value, type) {
+            const element = document.getElementById(elementId);
+            if (element) {
+                element.textContent = value;
+                element.style.animation = 'none';
+                element.offsetHeight; // Trigger reflow
+                element.style.animation = 'fadeInUp 0.6s ease-out';
+            }
+        }
     </script>
 </body>
 
