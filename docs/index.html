@@ -1071,6 +1071,37 @@
             });
         }
 
+        // Create default repo card when API fails
+        function createDefaultRepoCard(repoName, username) {
+            return `
+                <a href="https://github.com/${username}/${repoName}" target="_blank" class="repo-card">
+                    <div class="repo-header">
+                        <span class="repo-icon">📦</span>
+                        <span class="repo-name">${repoName}</span>
+                    </div>
+                    <p class="repo-desc">View repository on GitHub</p>
+                    <div class="repo-meta">
+                        <span class="repo-meta-item">
+                            <span class="repo-language lang-unknown" style="background-color: #94a3b8"></span>
+                            Unknown
+                        </span>
+                        <span class="repo-meta-item">🔗 View on GitHub</span>
+                    </div>
+                    <div class="repo-stats">
+                        <span class="repo-stat">
+                            ⭐ <span class="repo-stat-value">--</span>
+                        </span>
+                        <span class="repo-stat">
+                            🔱 <span class="repo-stat-value">--</span>
+                        </span>
+                        <span class="repo-stat">
+                            🐛 <span class="repo-stat-value">--</span>
+                        </span>
+                    </div>
+                </a>
+            `;
+        }
+
         // Fetch specific repositories
         async function fetchSpecificRepos() {
             const container = document.getElementById('repos-container');
@@ -1100,6 +1131,24 @@
                 ]
             };
 
+            // Check cache first
+            const cacheKey = `github-repos-${username}`;
+            const cacheDuration = 30 * 60 * 1000; // 30 minutes
+            const cached = localStorage.getItem(cacheKey);
+
+            // If cache exists and is valid, use it
+            if (cached) {
+                const { data, timestamp } = JSON.parse(cached);
+                if (Date.now() - timestamp < cacheDuration) {
+                    console.log('Using cached repos data');
+                    renderRepos(data);
+                    return;
+                }
+            }
+
+            let rateLimited = false;
+            let fetchError = null;
+
             try {
                 // Collect all repository names
                 const allRepoNames = Object.values(repoCategories).flat();
@@ -1108,6 +1157,10 @@
                 const repoPromises = allRepoNames.map(repoName =>
                     fetch(`https://api.github.com/repos/${username}/${repoName}`)
                         .then(res => {
+                            if (res.status === 403) {
+                                rateLimited = true;
+                                throw new Error(`Rate limited fetching ${repoName}`);
+                            }
                             if (!res.ok) throw new Error(`Failed to fetch ${repoName}`);
                             return res.json();
                         })
@@ -1123,36 +1176,81 @@
                 const validRepos = repos.filter(repo => repo !== null);
                 const repoMap = new Map(validRepos.map(repo => [repo.name, repo]));
 
-                if (validRepos.length === 0) {
-                    container.innerHTML = '<div class="loading-state"><p>No repositories found</p></div>';
-                    return;
+                // Build repo data object with categories
+                const repoData = {
+                    repoCategories,
+                    repoMap: Object.fromEntries(repoMap),
+                    rateLimited: false
+                };
+
+                // If we got some data, cache it
+                if (validRepos.length > 0 && !rateLimited) {
+                    localStorage.setItem(cacheKey, JSON.stringify({
+                        data: repoData,
+                        timestamp: Date.now()
+                    }));
+                    console.log('Fetched and cached repos data');
                 }
 
-                // Build HTML with categories
-                let html = '';
-                for (const [category, repoNames] of Object.entries(repoCategories)) {
-                    const categoryRepos = repoNames
-                        .map(name => repoMap.get(name))
-                        .filter(repo => repo !== undefined);
-
-                    if (categoryRepos.length === 0) continue;
-
-                    html += `
-                        <div class="repo-category">
-                            <div class="repo-category-title">${category}</div>
-                            <div class="repos-grid">
-                                ${categoryRepos.map(repo => createRepoCard(repo)).join('')}
-                            </div>
-                        </div>
-                    `;
-                }
-
-                container.innerHTML = html;
+                renderRepos(repoData, rateLimited);
 
             } catch (error) {
                 console.error('Error fetching repos:', error);
-                container.innerHTML = '<div class="loading-state"><p>Failed to load repositories</p></div>';
+                fetchError = error;
+
+                // Try to use stale cache
+                if (cached) {
+                    console.log('Using stale cache due to error');
+                    const repoData = JSON.parse(cached).data;
+                    renderRepos(repoData, true);
+                } else {
+                    // Show default repos with error message
+                    renderRepos({
+                        repoCategories,
+                        repoMap: {},
+                        rateLimited: true
+                    }, true);
+                }
             }
+        }
+
+        // Render repositories with optional rate limit warning
+        function renderRepos(repoData, isRateLimited = false) {
+            const container = document.getElementById('repos-container');
+            const { repoCategories, repoMap } = repoData;
+            const username = 'shahadathhs';
+
+            // Build HTML with categories
+            let html = '';
+
+            // Add rate limit warning if applicable
+            if (isRateLimited) {
+                html += `
+                    <div style="grid-column: 1 / -1; background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 12px; padding: 16px; margin-bottom: 24px; display: flex; align-items: center; gap: 12px;">
+                        <span style="font-size: 24px;">⚠️</span>
+                        <div>
+                            <div style="font-weight: 600; color: #fbbf24; margin-bottom: 4px;">GitHub API Rate Limit Reached</div>
+                            <div style="color: var(--text-dim); font-size: 0.9em;">Showing available data. Links to repositories are still functional.</div>
+                        </div>
+                    </div>
+                `;
+            }
+
+            for (const [category, repoNames] of Object.entries(repoCategories)) {
+                html += `
+                    <div class="repo-category">
+                        <div class="repo-category-title">${category}</div>
+                        <div class="repos-grid">
+                            ${repoNames.map(repoName => {
+                                const repo = repoMap[repoName];
+                                return repo ? createRepoCard(repo) : createDefaultRepoCard(repoName, username);
+                            }).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+
+            container.innerHTML = html;
         }
 
         function createRepoCard(repo) {
@@ -1285,9 +1383,73 @@
             fetchGitHubStats();
         });
 
-        // Fetch GitHub stats
+        // Calculate languages from repos data
+        function calculateLanguages(reposData) {
+            const languageStats = {};
+            reposData.forEach(repo => {
+                if (repo.language) {
+                    languageStats[repo.language] = (languageStats[repo.language] || 0) + 1;
+                }
+            });
+
+            const totalReposWithLang = Object.values(languageStats).reduce((a, b) => a + b, 0);
+            return Object.entries(languageStats)
+                .map(([lang, count]) => ({
+                    name: lang,
+                    count,
+                    percentage: Math.round((count / totalReposWithLang) * 100)
+                }))
+                .sort((a, b) => b.count - a.count)
+                .slice(0, 5); // Top 5 languages
+        }
+
+        // Display GitHub stats from data
+        function displayGitHubStats(data) {
+            const yearsActive = new Date().getFullYear() - data.joinedYear;
+            updateStat('total-contributions', data.repos, 'repos');
+            updateStat('followers', formatNumber(data.followers), 'followers');
+            updateStat('years-active', yearsActive + '+', 'years');
+            updateStat('total-stars', formatNumber(data.totalStars), 'stars');
+            renderLanguagesBreakdown(data.languages);
+        }
+
+        // Show fallback stats when API fails
+        function showFallbackStats() {
+            // Show unavailable indicator instead of fake numbers
+            updateStat('total-contributions', '--', 'repos');
+            updateStat('followers', '--', 'followers');
+            updateStat('years-active', '--', 'years');
+            updateStat('total-stars', '--', 'stars');
+
+            // Show languages unavailable message
+            const langContainer = document.getElementById('languages-breakdown');
+            if (langContainer) {
+                langContainer.innerHTML = `
+                    <div style="grid-column: 1 / -1; text-align: center; padding: 2rem;">
+                        <div style="font-size: 2rem; margin-bottom: 0.5rem;">📊</div>
+                        <div style="color: var(--text-dim); margin-bottom: 0.5rem;">Data temporarily unavailable</div>
+                        <div style="color: var(--text-dim); font-size: 0.85rem;">GitHub API rate limit reached. Check back soon!</div>
+                    </div>
+                `;
+            }
+        }
+
+        // Fetch GitHub stats with caching
         async function fetchGitHubStats() {
             const username = 'shahadathhs';
+            const cacheKey = `github-stats-${username}`;
+            const cacheDuration = 30 * 60 * 1000; // 30 minutes
+
+            // Check cache first
+            const cached = localStorage.getItem(cacheKey);
+            if (cached) {
+                const { data, timestamp } = JSON.parse(cached);
+                if (Date.now() - timestamp < cacheDuration) {
+                    console.log('Using cached GitHub stats');
+                    displayGitHubStats(data);
+                    return;
+                }
+            }
 
             try {
                 // Fetch user profile and repos
@@ -1295,6 +1457,12 @@
                     fetch(`https://api.github.com/users/${username}`),
                     fetch(`https://api.github.com/users/${username}/repos?per_page=100&sort=updated`)
                 ]);
+
+                // Check for rate limiting
+                if (userResponse.status === 403 || reposResponse.status === 403) {
+                    console.warn('GitHub API rate limit reached');
+                    throw new Error('Rate limited');
+                }
 
                 if (!userResponse.ok || !reposResponse.ok) {
                     throw new Error('Failed to fetch GitHub stats');
@@ -1306,52 +1474,36 @@
                 // Calculate stats
                 const totalStars = reposData.reduce((sum, repo) => sum + repo.stargazers_count, 0);
                 const joinedYear = new Date(userData.created_at).getFullYear();
-                const currentYear = new Date().getFullYear();
-                const yearsActive = currentYear - joinedYear;
 
-                // Calculate language distribution
-                const languageStats = {};
-                reposData.forEach(repo => {
-                    if (repo.language) {
-                        languageStats[repo.language] = (languageStats[repo.language] || 0) + 1;
-                    }
-                });
+                // Prepare data object
+                const data = {
+                    repos: userData.public_repos,
+                    followers: userData.followers,
+                    joinedYear: joinedYear,
+                    totalStars: totalStars,
+                    languages: calculateLanguages(reposData)
+                };
 
-                const totalReposWithLang = Object.values(languageStats).reduce((a, b) => a + b, 0);
-                const languagesWithPercent = Object.entries(languageStats)
-                    .map(([lang, count]) => ({
-                        name: lang,
-                        count,
-                        percentage: Math.round((count / totalReposWithLang) * 100)
-                    }))
-                    .sort((a, b) => b.count - a.count)
-                    .slice(0, 5); // Top 5 languages
+                // Cache the data
+                localStorage.setItem(cacheKey, JSON.stringify({
+                    data,
+                    timestamp: Date.now()
+                }));
 
-                // Update UI
-                updateStat('total-contributions', userData.public_repos, 'repos');
-                updateStat('followers', formatNumber(userData.followers), 'followers');
-                updateStat('years-active', yearsActive + '+', 'years');
-                updateStat('total-stars', formatNumber(totalStars), 'stars');
-
-                // Render languages breakdown
-                renderLanguagesBreakdown(languagesWithPercent);
+                console.log('Fetched and cached GitHub stats');
+                displayGitHubStats(data);
 
             } catch (error) {
                 console.error('Error fetching GitHub stats:', error);
-                // Set fallback values
-                updateStat('total-contributions', '69+', 'repos');
-                updateStat('followers', '50+', 'followers');
-                updateStat('years-active', '2+', 'years');
-                updateStat('total-stars', '100+', 'stars');
 
-                // Fallback languages
-                renderLanguagesBreakdown([
-                    { name: 'TypeScript', percentage: 35 },
-                    { name: 'JavaScript', percentage: 30 },
-                    { name: 'Python', percentage: 20 },
-                    { name: 'Dockerfile', percentage: 10 },
-                    { name: 'HTML', percentage: 5 }
-                ]);
+                // Try to use stale cache if available
+                if (cached) {
+                    console.log('Using stale cache due to error');
+                    displayGitHubStats(JSON.parse(cached).data);
+                } else {
+                    // Show fallback values
+                    showFallbackStats();
+                }
             }
         }
 
