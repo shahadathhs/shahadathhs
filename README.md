@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-**Hey there, I'm Shahadath Hossen Sajib (Sajib)** — Backend Developer specializing in **scalable, secure, and high-performance systems** (microservices, real-time features, AI-powered solutions). I work with **Node.js**, **NestJS**, **Python**, **FastAPI**, and **TypeScript**.
+**Hey there, I'm Shahadath Hossen Sajib (Sajib)** — Backend Developer specializing in **scalable, secure, and high-performance systems** (microservices, real-time features, AI-integrated backend services, and automation pipelines). I work with **Node.js**, **NestJS**, **Python**, **FastAPI**, and **TypeScript**.
 
 - 🧠 Designing robust RESTful APIs, managing **PostgreSQL**, **MongoDB**, **Redis**, and building real-time features, background processing, and AI-powered services
 - 🏗️ Specializing in **microservices architecture**—large, configurable backend systems with complex workflows and multi-module operations
