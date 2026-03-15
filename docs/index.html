@@ -940,6 +940,44 @@
                         inset 0 1px 0 rgba(255, 255, 255, 0.15);
         }
 
+        .dock.hidden {
+            opacity: 0;
+            visibility: hidden;
+            transform: translateX(-50%) translateY(100%);
+            pointer-events: none;
+        }
+
+        /* Dock Toggle Button */
+        .dock-toggle {
+            position: fixed;
+            bottom: 1.5rem;
+            right: 1.5rem;
+            z-index: 1001;
+            width: 3rem;
+            height: 3rem;
+            border-radius: 1rem;
+            background: rgba(15, 23, 42, 0.8);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4),
+                        0 2px 8px rgba(0, 0, 0, 0.2),
+                        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        }
+
+        .dock-toggle:hover {
+            background: rgba(16, 185, 129, 0.2);
+            border-color: rgba(16, 185, 129, 0.4);
+            transform: scale(1.1);
+            box-shadow: 0 8px 24px rgba(16, 185, 129, 0.3);
+        }
+
         .dock-item {
             position: relative;
             display: flex;
@@ -1045,8 +1083,44 @@
                 transform: translateY(-0.3rem) scale(1.1);
             }
 
+            /* Move dock toggle to top-right on mobile to prevent overlap */
+            .dock-toggle {
+                bottom: auto;
+                top: 1rem;
+                right: 1rem;
+                width: 2.5rem;
+                height: 2.5rem;
+                font-size: 1.2rem;
+            }
+
             .dock-tooltip {
                 display: none;
+            }
+
+            /* Blog cards responsive styles for mobile */
+            .blogs-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+
+            .blog-card {
+                padding: 1rem;
+            }
+
+            .blog-title {
+                font-size: 1rem;
+                word-wrap: break-word;
+                overflow-wrap: break-word;
+                hyphens: auto;
+            }
+
+            .blog-excerpt {
+                font-size: 0.85rem;
+                -webkit-line-clamp: 2;
+            }
+
+            .blog-meta {
+                font-size: 0.75rem;
             }
         }
 
@@ -1060,6 +1134,34 @@
                 width: 2.4rem;
                 height: 2.4rem;
                 font-size: 1.1rem;
+            }
+
+            .dock-toggle {
+                width: 2.2rem;
+                height: 2.2rem;
+                font-size: 1rem;
+            }
+
+            /* Blog cards for very small screens */
+            .blog-card {
+                padding: 0.875rem;
+            }
+
+            .blog-title {
+                font-size: 0.95rem;
+            }
+
+            .blog-excerpt {
+                font-size: 0.8rem;
+                -webkit-line-clamp: 2;
+            }
+
+            .blog-icon {
+                font-size: 1.25rem;
+            }
+
+            .blog-header {
+                gap: 0.5rem;
             }
         }
     </style>
@@ -1399,6 +1501,11 @@
         </a>
     </nav>
 
+    <!-- Dock Toggle Button -->
+    <button class="dock-toggle" id="dockToggle" title="Toggle Dock">
+        <span id="dockToggleIcon">👁️</span>
+    </button>
+
     <script>
         // Reveal on scroll
         const reveal = () => {
@@ -1503,6 +1610,41 @@
 
         // Initial update
         updateActiveDockItem();
+
+        // Dock Toggle functionality with localStorage
+        const dock = document.querySelector('.dock');
+        const dockToggle = document.getElementById('dockToggle');
+        const dockToggleIcon = document.getElementById('dockToggleIcon');
+        const DOCK_VISIBLE_KEY = 'dockVisible';
+
+        // Function to set dock visibility state
+        function setDockVisibility(isVisible) {
+            if (isVisible) {
+                dock.classList.remove('hidden');
+                dockToggleIcon.textContent = '👁️';
+            } else {
+                dock.classList.add('hidden');
+                dockToggleIcon.textContent = '👁️‍🗨️';
+            }
+            localStorage.setItem(DOCK_VISIBLE_KEY, isVisible);
+        }
+
+        // Load dock visibility from localStorage on page load
+        function loadDockVisibility() {
+            const savedState = localStorage.getItem(DOCK_VISIBLE_KEY);
+            // Default to visible if no saved state
+            const isVisible = savedState === null ? true : savedState === 'true';
+            setDockVisibility(isVisible);
+        }
+
+        // Toggle dock visibility
+        dockToggle.addEventListener('click', () => {
+            const isCurrentlyVisible = !dock.classList.contains('hidden');
+            setDockVisibility(!isCurrentlyVisible);
+        });
+
+        // Initialize dock visibility on page load
+        loadDockVisibility();
 
         // Create default repo card when API fails
         function createDefaultRepoCard(repoName, username) {
