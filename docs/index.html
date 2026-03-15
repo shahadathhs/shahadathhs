@@ -358,6 +358,10 @@
             font-size: 1.1rem;
             font-weight: 600;
             font-family: 'Monaco', 'Courier New', monospace;
+            overflow-wrap: break-word;
+            word-break: break-all;
+            flex: 1;
+            min-width: 0;
         }
 
         .copy-btn {
@@ -399,7 +403,7 @@
         /* Featured Repos */
         .repos-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 1.5rem;
             margin-top: 2rem;
         }
@@ -413,6 +417,10 @@
             text-decoration: none;
             color: var(--text-main);
             display: block;
+            max-width: 100%;
+            overflow: hidden;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
 
         .repo-card:hover {
@@ -436,6 +444,9 @@
             font-size: 1.1rem;
             font-weight: 600;
             color: var(--text-main);
+            word-break: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
         }
 
         .repo-desc {
@@ -496,6 +507,41 @@
         .lang-python { background: #3776ab; }
         .lang-docker { background: #2496ed; }
         .lang-html { background: #e34c26; }
+
+        /* Media queries for small screens */
+        @media (max-width: 350px) {
+            .repos-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+                padding: 0 0.5rem;
+            }
+
+            .repo-card {
+                padding: 1rem;
+            }
+
+            .repo-name {
+                font-size: 1rem;
+            }
+
+            .repo-desc {
+                font-size: 0.85rem;
+            }
+
+            .repo-header {
+                gap: 0.5rem;
+            }
+
+            .repo-meta {
+                gap: 0.5rem;
+                font-size: 0.75rem;
+            }
+
+            .repo-stats {
+                gap: 0.5rem;
+                font-size: 0.75rem;
+            }
+        }
 
         .loading-state {
             text-align: center;
