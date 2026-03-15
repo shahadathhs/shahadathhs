@@ -508,6 +508,109 @@
         .lang-docker { background: #2496ed; }
         .lang-html { background: #e34c26; }
 
+        /* Latest Blog Posts */
+        .blogs-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .blog-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: var(--text-main);
+            display: block;
+        }
+
+        .blog-card:hover {
+            border-color: var(--accent-primary);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .blog-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+
+        .blog-icon {
+            font-size: 1.5rem;
+            flex-shrink: 0;
+        }
+
+        .blog-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-main);
+            line-height: 1.4;
+        }
+
+        .blog-excerpt {
+            color: var(--text-dim);
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .blog-meta {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+            color: var(--text-dim);
+        }
+
+        .blog-meta-item {
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+
+        .blog-tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .blog-tag {
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            color: var(--accent-primary);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        .error-banner {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            border-radius: 12px;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            color: #fca5a5;
+        }
+
+        .error-banner-icon {
+            font-size: 1.25rem;
+            flex-shrink: 0;
+        }
+
         /* Media queries for small screens */
         @media (max-width: 350px) {
             .repos-grid {
@@ -1013,6 +1116,17 @@
             </div>
         </section>
 
+        <!-- Latest Blog Posts -->
+        <section id="blogs" data-reveal>
+            <h2 class="sec-title">✍️ Latest Blog Posts</h2>
+            <div id="blogs-container">
+                <div class="loading-state">
+                    <div class="loading-spinner"></div>
+                    <p>Loading blog posts...</p>
+                </div>
+            </div>
+        </section>
+
         <!-- Contact & Links -->
         <section id="contact" data-reveal>
             <h2 class="sec-title">📫 Get In Touch</h2>
@@ -1423,9 +1537,172 @@
             return num.toString();
         }
 
+        // Medium Blogs functionality
+        async function fetchMediumBlogs() {
+            const container = document.getElementById('blogs-container');
+            const cacheKey = 'medium-blogs-shahadathhs';
+            const cacheDuration = 30 * 60 * 1000; // 30 minutes
+            const rssUrl = 'https://medium.com/feed/@shahadathhs';
+            const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
+
+            // Check cache first
+            const cachedData = localStorage.getItem(cacheKey);
+            const cachedTimestamp = localStorage.getItem(`${cacheKey}-timestamp`);
+            const now = Date.now();
+
+            if (cachedData && cachedTimestamp && (now - parseInt(cachedTimestamp)) < cacheDuration) {
+                try {
+                    const blogsData = JSON.parse(cachedData);
+                    renderBlogs(blogsData, false);
+                    return;
+                } catch (e) {
+                    console.error('Error parsing cached blog data:', e);
+                }
+            }
+
+            try {
+                const response = await fetch(apiUrl);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+
+                if (data.status === 'ok' && data.items && data.items.length > 0) {
+                    // Cache the data
+                    localStorage.setItem(cacheKey, JSON.stringify(data));
+                    localStorage.setItem(`${cacheKey}-timestamp`, now.toString());
+
+                    renderBlogs(data, false);
+                } else {
+                    renderBlogs({ items: [] }, false);
+                }
+            } catch (error) {
+                console.error('Error fetching Medium blogs:', error);
+                // Try to use stale cache if available
+                if (cachedData) {
+                    try {
+                        const blogsData = JSON.parse(cachedData);
+                        renderBlogs(blogsData, true);
+                    } catch (e) {
+                        renderBlogs({ items: [] }, true);
+                    }
+                } else {
+                    renderBlogs({ items: [] }, true);
+                }
+            }
+        }
+
+        function renderBlogs(blogsData, isError = false) {
+            const container = document.getElementById('blogs-container');
+
+            if (!blogsData.items || blogsData.items.length === 0) {
+                container.innerHTML = `
+                    <div class="loading-state">
+                        <p>No blog posts found yet. Check back soon!</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+
+            if (isError) {
+                html += `
+                    <div class="error-banner">
+                        <span class="error-banner-icon">⚠️</span>
+                        <span>Unable to fetch latest blogs. Showing cached data.</span>
+                    </div>
+                `;
+            }
+
+            html += '<div class="blogs-grid">';
+
+            const latestBlogs = blogsData.items.slice(0, 6);
+            latestBlogs.forEach(blog => {
+                html += createBlogCard(blog);
+            });
+
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function createBlogCard(blog) {
+            const title = blog.title || 'Untitled Post';
+            const link = blog.link || '#';
+            const pubDate = formatBlogDate(blog.pubDate);
+            const excerpt = extractExcerpt(blog.description || blog.content || '');
+            const tags = extractTags(blog.categories || []);
+            const readTime = extractReadTime(blog.description || blog.content || '');
+
+            return `
+                <a href="${link}" target="_blank" class="blog-card">
+                    <div class="blog-header">
+                        <span class="blog-icon">✍️</span>
+                        <span class="blog-title">${escapeHtml(title)}</span>
+                    </div>
+                    <p class="blog-excerpt">${escapeHtml(excerpt)}</p>
+                    <div class="blog-meta">
+                        <span class="blog-meta-item">📅 ${pubDate}</span>
+                        <span class="blog-meta-item">⏱️ ${readTime}</span>
+                    </div>
+                    <div class="blog-tags">
+                        ${tags.map(tag => `<span class="blog-tag">${escapeHtml(tag)}</span>`).join('')}
+                    </div>
+                </a>
+            `;
+        }
+
+        function formatBlogDate(dateString) {
+            try {
+                const date = new Date(dateString);
+                return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+            } catch (e) {
+                return 'Unknown date';
+            }
+        }
+
+        function extractExcerpt(content) {
+            // Remove HTML tags
+            const text = content.replace(/<[^>]*>/g, '');
+            // Remove Medium's specific text
+            const cleaned = text.replace(/--This is a story from.*?Medium\.com.*?--/g, '').trim();
+            // Truncate to ~150 characters
+            if (cleaned.length > 150) {
+                return cleaned.substring(0, 147) + '...';
+            }
+            return cleaned;
+        }
+
+        function extractReadTime(content) {
+            // Medium doesn't provide read time in RSS, so estimate it
+            // Average reading speed: ~200 words per minute
+            const text = content.replace(/<[^>]*>/g, '').replace(/--This is a story from.*?Medium\.com.*?--/g, '').trim();
+            const words = text.split(/\s+/).length;
+            const minutes = Math.max(1, Math.ceil(words / 200));
+            return `${minutes} min read`;
+        }
+
+        function extractTags(categories) {
+            if (!categories || !Array.isArray(categories)) {
+                return [];
+            }
+            // Return up to 3 tags
+            return categories.slice(0, 3).map(cat => {
+                // Clean up tag names
+                return cat.replace(/-/g, ' ').replace(/^./, str => str.toUpperCase());
+            });
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
         // Load repositories when page loads
         document.addEventListener('DOMContentLoaded', () => {
             fetchSpecificRepos();
+            fetchMediumBlogs();
             fetchGitHubStats();
         });
 
