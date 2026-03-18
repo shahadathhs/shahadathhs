@@ -94,6 +94,6 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 <div align="center">
 
-### [View Interactive Visual Profile](https://shahadathhs.github.io/shahadathhs/)
+### [View Interactive Visual Profile](https://shahadathhs.github.io/)
 
 </div>
