@@ -1333,7 +1333,7 @@
 
         <!-- GitHub Integration -->
         <section id="activity" data-reveal>
-            <h2 class="sec-title">📊 Developer Impact Dashboard</h2>
+            <h2 class="sec-title">📊 GitHub Stats</h2>
             <div class="github-dashboard">
                 <!-- Impact Stats -->
                 <div class="stats-row">
@@ -1708,7 +1708,7 @@
 
             // Check cache first
             const cacheKey = `github-repos-${username}`;
-            const cacheDuration = 30 * 60 * 1000; // 30 minutes
+            const cacheDuration = 24 * 60 * 60 * 1000; // 1 day
             const cached = localStorage.getItem(cacheKey);
 
             // If cache exists and is valid, use it
@@ -1746,6 +1746,14 @@
                 );
 
                 const repos = await Promise.all(repoPromises);
+
+                // If rate limited, try to use stale cache
+                if (rateLimited && cached) {
+                    console.log('Rate limited - using stale cache');
+                    const repoData = JSON.parse(cached).data;
+                    renderRepos(repoData, true);
+                    return;
+                }
 
                 // Filter out failed requests and create a map
                 const validRepos = repos.filter(repo => repo !== null);
@@ -1956,7 +1964,7 @@
         async function fetchMediumBlogs() {
             const container = document.getElementById('blogs-container');
             const cacheKey = 'medium-blogs-shahadathhs';
-            const cacheDuration = 30 * 60 * 1000; // 30 minutes
+            const cacheDuration = 24 * 60 * 60 * 1000; // 1 day
             const rssUrl = 'https://medium.com/feed/@shahadathhs';
             const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
 
@@ -2176,7 +2184,7 @@
         async function fetchGitHubStats() {
             const username = 'shahadathhs';
             const cacheKey = `github-stats-${username}`;
-            const cacheDuration = 30 * 60 * 1000; // 30 minutes
+            const cacheDuration = 24 * 60 * 60 * 1000; // 1 day
 
             // Check cache first
             const cached = localStorage.getItem(cacheKey);
