@@ -94,6 +94,15 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 <div align="center">
 
-### [View Interactive Visual Profile](https://shahadathhs.github.io/)
+
+<sub>
+  <b>Deployment Mirrors</b>
+  <br>
+  <a href="https://shahadathhs.github.io"><img src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat&logo=github&logoColor=white" height="18"></a>
+  <a href="https://shahadathhs.surge.sh"><img src="https://img.shields.io/badge/-Surge-01ADFF?style=flat&logo=surge&logoColor=white" height="18"></a>
+  <a href="https://shahadathhs.vercel.app"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" height="18"></a>
+  <a href="https://shahadathhs.netlify.app"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height="18"></a>
+  <a href="https://shahadathhs.pages.dev"><img src="https://img.shields.io/badge/-Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white" height="18"></a>
+</sub>
 
 </div>
