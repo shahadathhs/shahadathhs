@@ -94,10 +94,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 
 <div align="center">
 
-
 <sub>
-  <b>Deployment Mirrors</b>
-  <br>
   <a href="https://shahadathhs.github.io"><img src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat&logo=github&logoColor=white" height="18"></a>
   <a href="https://shahadathhs.surge.sh"><img src="https://img.shields.io/badge/-Surge-01ADFF?style=flat&logo=surge&logoColor=white" height="18"></a>
   <a href="https://shahadathhs.vercel.app"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" height="18"></a>
