@@ -21,22 +21,16 @@ I design high-performance **RESTful APIs**, **real-time applications**, and **ev
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- 📧 Email: **shahadathhossensajib732@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view
+- 📧 **Email:** shahadathhossensajib732@gmail.com
+- 📄 **Resume:** https://drive.google.com/file/d/1dtZCEgZyof-qrUreeVpXDlOovosegpuf/view
 
----
-
-## 🔗 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahadathhs.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahadathhs)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahadathhs)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@shahadathhs)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/shahadathhs/)
-
-I write about backend engineering, system design, DevOps, and real-world project learnings.
+[![Vercel](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahadathhs.vercel.app)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://shahadathhs.pages.dev)
 
 ---
 
@@ -88,7 +82,7 @@ I write about backend engineering, system design, DevOps, and real-world project
 ![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
 
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl)
 
 </div>
 
@@ -105,11 +99,8 @@ I write about backend engineering, system design, DevOps, and real-world project
 <div align="center">
 
 <sub>
-  <a href="https://shahadathhs.github.io"><img src="https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat&logo=github&logoColor=white" height="18"></a>
-  <a href="https://shahadathhs.surge.sh"><img src="https://img.shields.io/badge/-Surge-01ADFF?style=flat&logo=surge&logoColor=white" height="18"></a>
   <a href="https://shahadathhs.vercel.app"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" height="18"></a>
-  <a href="https://shahadathhs.netlify.app"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height="18"></a>
-  <a href="https://shahadathhs.pages.dev"><img src="https://img.shields.io/badge/-Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white" height="18"></a>
+  <a href="https://shahadathhs.pages.dev"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" height="18"></a>
 </sub>
 
 </div>
