@@ -2309,7 +2309,7 @@
 
         // Display GitHub stats from data
         function displayGitHubStats(data) {
-            const yearsActive = new Date().getFullYear() - data.joinedYear;
+            const yearsActive = new Date().getFullYear() - data.joinedYear - 1;
             updateStat('total-contributions', data.repos, 'repos');
             updateStat('followers', formatNumber(data.followers), 'followers');
             updateStat('years-active', yearsActive + '+', 'years');
