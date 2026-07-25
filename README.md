@@ -79,10 +79,9 @@ I design high-performance **RESTful APIs**, **real-time applications**, and **ev
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shahadathhs?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shahadathhs/)
 
-![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 ![Languages Used](https://github.com/shahadathhs/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahadathhs&theme=nightowl)
+![GitHub Overview](https://github.com/shahadathhs/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only)
 
 </div>
 
