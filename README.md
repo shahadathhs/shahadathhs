@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-**Hey there, I'm Shahadath Hossen Sajib (Sajib)** — Backend Engineer who builds **scalable APIs, distributed systems, and AI-powered backend services** with **Node.js**, **NestJS**, **TypeScript**, and **Python**.
+**Hey there, I'm Shahadath Hossen Sajib (Sajib)** — Full Stack Engineer, backend-focused, who builds **scalable APIs, real-time systems, and AI-powered applications** with **TypeScript**, **React**, **Next.js**, **Node.js**, **NestJS**, and **Python**.
 
 I design high-performance **RESTful APIs**, **real-time applications**, and **event-driven architectures**, and ship them end-to-end — from data modeling through production deployment. Most of my work sits at the intersection of **microservices**, **real-time features**, and **AI integration** (RAG, tool calling, document retrieval).
 
@@ -17,7 +17,7 @@ I design high-performance **RESTful APIs**, **real-time applications**, and **ev
 - ⚡ **Real-time & queues:** Socket.IO, WebRTC, BullMQ for live updates and background workloads
 - 🤖 **AI/LLM:** OpenAI API, Ollama, RAG pipelines, and vector search for intelligent features
 - 🐳 **DevOps:** Docker, GitHub Actions CI/CD, AWS (EC2 & S3), Nginx, and Caddy on Linux VPS
-- 🤝 Open to collaboration on backend-heavy, AI-integrated, or distributed systems work
+- 🤝 Open to collaboration on full stack, backend-heavy, or AI-integrated work
 
 ---
 
@@ -39,7 +39,7 @@ I design high-performance **RESTful APIs**, **real-time applications**, and **ev
 | Category           | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**      | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                                                                                                                                                                                                          |
-| **Backend**        | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)                                                                                                                     |
+| **Web Development** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)                                                                                                                     |
 | **Databases**      | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)                                                                                                                                                                                                                     |
 | **ORM / ODM**      | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)                                                                                                                                                                                                                         |
 | **Messaging & Real-time** | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-CD0000?style=for-the-badge&logo=redis&logoColor=white)                                                                                                                                                                                                              |
@@ -50,14 +50,14 @@ I design high-performance **RESTful APIs**, **real-time applications**, and **ev
 
 ## 💼 Experience
 
-**Back End Developer — Digital Pylot** _(Feb 2026 – Present)_ · Dhaka, Bangladesh · On-site
+**Backend Developer — Digital Pylot** _(Feb 2026 – Present)_ · Dhaka, Bangladesh · On-site
 
 - Building a large-scale **CRM & dynamic CMS platform** on a microservices architecture across backend, AI, and deployment
 - Shipped a fully customizable CMS (themes, layouts, pages, dynamic content with no code changes) and a **custom RAG chatbot** with tool calling and document retrieval
 - Built role-based notifications and dynamic configuration that power complex business workflows
 - Run production deployments on **Linux VPS** with Nginx, SSL, and CI/CD across services
 
-**Back End Developer — Softvence Agency** _(Jul 2025 – Feb 2026)_ · Dhaka, Bangladesh · On-site
+**Backend Developer — Softvence Agency** _(Jul 2025 – Feb 2026)_ · Dhaka, Bangladesh · On-site
 
 - Built an **Uber-style logistics platform** — live tracking, dynamic routing, multi-party coordination, and weather-aware routing
 - Engineered a **payment engine** for subscriptions, promo codes, and rule-based payouts, plus HR workflows with payroll automation
