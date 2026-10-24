@@ -1842,36 +1842,24 @@
 
             // Define repositories with categories
             const repoCategories = {
-                '🚀 Starter Kits & Boilerplates': [
-                    'nestjs-prisma-aws-starter',
-                    'nx-remix-starter',
-                    'turborepo-starter'
+                '🛠️ Tools & Utilities': [
+                    'systemix'
+                ],
+                '💼 Full-Stack Applications': [
+                    'adda'
                 ],
                 '🤖 AI & Machine Learning': [
-                    'rag',
                     'voice-studio'
-                ],
-                '🛠️ Tools & Utilities': [
-                    'systemix',
-                    'local-mail-stack',
-                    'docker-cheatsheet'
                 ],
                 '🎮 Games & Mobile': [
                     'DropGrid',
                     'Algomind',
                     'GuliBatto'
-                ],
-                '💼 Applications & Projects': [
-                    'adda',
-                    'vortex',
-                    'barisathi',
-                    'bike-shop',
-                    'knowledge-capsule'
                 ]
             };
 
             // Check cache first
-            const cacheKey = `github-repos-v2-${username}`;
+            const cacheKey = `github-repos-v3-${username}`;
             const cacheDuration = 24 * 60 * 60 * 1000; // 1 day
             const cached = localStorage.getItem(cacheKey);
 
